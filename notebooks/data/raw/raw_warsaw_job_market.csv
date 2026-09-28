@@ -1,0 +1,801 @@
+title,company_name,location,work_mode,salary_range,main_technology,all_skills,contract_type
+Data Analyst,mBank,Warsaw,On-site,8000 - 14000 PLN,Excel,"Excel, Kafka, Python, Spark",Permanent
+BI Developer,PKO BP,Remote,Remote,8000 - 13000 PLN,Spark,"Spark, Kafka",Permanent
+Machine Learning Engineer,CD Projekt Red,Warsaw,Hybrid,26000 - 32000 PLN,Excel,"Excel, AWS",B2B
+Data Engineer,Samsung Warsaw,Remote,Remote,26000 - 30000 PLN,AWS,"AWS, Docker, Azure",B2B
+BI Developer,mBank,Warsaw,Hybrid,11000 - 18000 PLN,Azure,"Azure, Spark",Permanent
+Data Analyst,EY,Warsaw,Hybrid,12000 - 15000 PLN,Excel,"Excel, Kafka, Spark, Python, Docker",Permanent
+BI Developer,EY,Warsaw,Hybrid,12000 - 18000 PLN,Excel,"Excel, Docker, AWS, Tableau",Permanent
+Data Engineer,mBank,Remote,Remote,23000 - 28000 PLN,Power BI,"Power BI, Azure, Spark, AWS",Permanent
+Data Scientist,Sabre,Remote,Remote,26000 - 32000 PLN,Docker,"Docker, Power BI",B2B
+Data Engineer,Deloitte,Remote,Remote,25000 - 28000 PLN,Kafka,"Kafka, AWS, Excel",B2B
+Machine Learning Engineer,Capgemini,Remote,Remote,Undisclosed,Tableau,"Tableau, Kafka, Python, Excel, Power BI",Permanent
+Data Scientist,Capgemini,Warsaw,On-site,16000 - 19000 PLN,Power BI,"Power BI, Docker, AWS, Excel, Spark",Permanent
+Data Analyst,PKO BP,Remote,Remote,8000 - 11000 PLN,Power BI,"Power BI, Azure",Permanent
+Data Analyst,EY,Warsaw,Hybrid,12000 - 16000 PLN,Excel,"Excel, Power BI, Spark, SQL, Azure",Permanent
+Data Scientist,Allegro,Remote,Remote,16000 - 23000 PLN,Kafka,"Kafka, Excel, Power BI, Docker",B2B
+BI Developer,Deloitte,Warsaw,Hybrid,11000 - 14000 PLN,Azure,"Azure, Kafka",B2B
+Data Analyst,mBank,Remote,Remote,9000 - 13000 PLN,Azure,"Azure, Python, Power BI",Permanent
+Data Analyst,Allegro,Remote,Remote,12000 - 15000 PLN,Kafka,"Kafka, Python, Docker, Excel",Permanent
+Data Analyst,PKO BP,Warsaw,Hybrid,Undisclosed,Azure,"Azure, SQL, Spark",B2B
+Data Scientist,Sabre,Warsaw,Hybrid,20000 - 24000 PLN,Tableau,"Tableau, AWS, Azure, SQL, Kafka",B2B
+Data Analyst,EY,Warsaw,Hybrid,10000 - 14000 PLN,Excel,"Excel, Tableau",B2B
+Data Engineer,mBank,Remote,Remote,21000 - 24000 PLN,Spark,"Spark, Docker, Tableau",B2B
+BI Developer,mBank,Warsaw,Hybrid,Undisclosed,Docker,"Docker, Azure, Kafka, Power BI",Permanent
+Data Engineer,Sabre,Warsaw,On-site,26000 - 30000 PLN,Spark,"Spark, Excel, Power BI, AWS, Python",B2B
+BI Developer,mBank,Warsaw,On-site,8000 - 15000 PLN,Power BI,"Power BI, Spark, Tableau, Azure, AWS",Permanent
+Data Analyst,EY,Warsaw,On-site,10000 - 13000 PLN,Tableau,"Tableau, Azure, SQL",Permanent
+Machine Learning Engineer,Sabre,Warsaw,Hybrid,18000 - 22000 PLN,Azure,"Azure, Kafka, Tableau, Python",B2B
+Data Engineer,Sabre,Remote,Remote,21000 - 28000 PLN,Docker,"Docker, Tableau, Power BI, Azure",B2B
+Data Scientist,Capgemini,Warsaw,On-site,25000 - 31000 PLN,Docker,"Docker, Kafka, Python, Azure",Permanent
+Data Analyst,Deloitte,Remote,Remote,14000 - 17000 PLN,Spark,"Spark, Python, Kafka",Permanent
+BI Developer,mBank,Warsaw,Hybrid,Undisclosed,AWS,"AWS, SQL, Kafka, Power BI, Spark",B2B
+BI Developer,PKO BP,Warsaw,On-site,14000 - 21000 PLN,Spark,"Spark, Docker, Excel, Power BI, Python",Permanent
+Data Analyst,mBank,Warsaw,Hybrid,8000 - 14000 PLN,SQL,"SQL, Kafka, AWS, Power BI",Permanent
+Data Analyst,PKO BP,Warsaw,Hybrid,13000 - 19000 PLN,Tableau,"Tableau, Excel, Kafka",B2B
+Data Analyst,EY,Warsaw,On-site,10000 - 14000 PLN,SQL,"SQL, Kafka, Tableau",B2B
+Data Engineer,Capgemini,Warsaw,Hybrid,16000 - 23000 PLN,AWS,"AWS, Azure, Excel, Kafka, Tableau",B2B
+BI Developer,CD Projekt Red,Remote,Remote,9000 - 12000 PLN,Spark,"Spark, Excel, Kafka",Permanent
+Data Analyst,Allegro,Warsaw,Hybrid,14000 - 19000 PLN,Docker,"Docker, SQL, Tableau, Azure",B2B
+Data Scientist,EY,Remote,Remote,Undisclosed,SQL,"SQL, Power BI, Azure",Permanent
+Data Scientist,mBank,Warsaw,On-site,21000 - 26000 PLN,Excel,"Excel, Power BI, Tableau, Docker, Spark",Permanent
+Data Engineer,Samsung Warsaw,Warsaw,Hybrid,24000 - 31000 PLN,Azure,"Azure, Power BI, Kafka, SQL",Permanent
+Data Engineer,CD Projekt Red,Warsaw,Hybrid,21000 - 25000 PLN,Docker,"Docker, Tableau, Excel",Permanent
+Data Analyst,EY,Remote,Remote,Undisclosed,Azure,"Azure, Python",B2B
+BI Developer,EY,Remote,Remote,12000 - 15000 PLN,Docker,"Docker, Python",B2B
+BI Developer,Capgemini,Remote,Remote,Undisclosed,Azure,"Azure, Python",B2B
+Data Analyst,Sabre,Remote,Remote,9000 - 12000 PLN,Azure,"Azure, Python, Tableau, Kafka, SQL",B2B
+Data Analyst,Sabre,Warsaw,Hybrid,Undisclosed,Tableau,"Tableau, Python, Kafka, Azure, Power BI",B2B
+Data Analyst,EY,Remote,Remote,Undisclosed,Tableau,"Tableau, Excel, SQL, Docker",B2B
+Data Scientist,mBank,Remote,Remote,17000 - 24000 PLN,Docker,"Docker, Python",Permanent
+Data Analyst,Allegro,Remote,Remote,14000 - 18000 PLN,Python,"Python, Tableau",B2B
+BI Developer,mBank,Remote,Remote,8000 - 11000 PLN,SQL,"SQL, Power BI, Spark",B2B
+Data Analyst,mBank,Warsaw,Hybrid,Undisclosed,Spark,"Spark, Excel, Azure",Permanent
+Data Analyst,PKO BP,Warsaw,Hybrid,9000 - 15000 PLN,Docker,"Docker, SQL, Python",Permanent
+Data Analyst,Capgemini,Remote,Remote,8000 - 13000 PLN,Azure,"Azure, Spark, Power BI, Docker, Tableau",B2B
+Data Scientist,Samsung Warsaw,Warsaw,Hybrid,18000 - 21000 PLN,Tableau,"Tableau, Excel, Spark",Permanent
+Data Engineer,PKO BP,Remote,Remote,18000 - 25000 PLN,AWS,"AWS, Docker, Python",B2B
+Machine Learning Engineer,Capgemini,Remote,Remote,16000 - 20000 PLN,AWS,"AWS, Spark, Azure",Permanent
+Data Analyst,PKO BP,Remote,Remote,13000 - 18000 PLN,AWS,"AWS, Kafka, Excel, Power BI",Permanent
+Data Scientist,mBank,Remote,Remote,24000 - 29000 PLN,AWS,"AWS, Docker, Python",B2B
+Data Scientist,Samsung Warsaw,Warsaw,Hybrid,Undisclosed,Spark,"Spark, Python",Permanent
+Data Analyst,PKO BP,Warsaw,On-site,Undisclosed,Docker,"Docker, Power BI",B2B
+BI Developer,mBank,Warsaw,Hybrid,8000 - 13000 PLN,Kafka,"Kafka, Spark, Azure, Docker",B2B
+Data Analyst,PKO BP,Warsaw,Hybrid,8000 - 14000 PLN,AWS,"AWS, Docker, Spark",Permanent
+Data Engineer,Samsung Warsaw,Remote,Remote,22000 - 26000 PLN,Power BI,"Power BI, Kafka, Tableau",B2B
+Data Analyst,PKO BP,Warsaw,Hybrid,Undisclosed,Excel,"Excel, Python",B2B
+Data Scientist,mBank,Remote,Remote,Undisclosed,Python,"Python, Spark, SQL, Tableau",Permanent
+Data Analyst,Deloitte,Warsaw,Hybrid,9000 - 15000 PLN,Power BI,"Power BI, SQL, AWS, Spark",B2B
+Data Engineer,Samsung Warsaw,Remote,Remote,20000 - 25000 PLN,Spark,"Spark, AWS",Permanent
+Data Engineer,Capgemini,Warsaw,Hybrid,Undisclosed,Docker,"Docker, Tableau",Permanent
+Data Scientist,CD Projekt Red,Warsaw,Hybrid,19000 - 26000 PLN,Power BI,"Power BI, Excel, Tableau, Docker, Python",Permanent
+BI Developer,Capgemini,Remote,Remote,9000 - 13000 PLN,Power BI,"Power BI, Kafka, Docker, Python",B2B
+Data Engineer,Samsung Warsaw,Warsaw,On-site,26000 - 29000 PLN,Tableau,"Tableau, Spark, Kafka",Permanent
+Data Analyst,EY,Remote,Remote,13000 - 20000 PLN,Spark,"Spark, SQL, Power BI, Python, Tableau",B2B
+BI Developer,mBank,Remote,Remote,14000 - 17000 PLN,SQL,"SQL, Kafka",Permanent
+Data Analyst,Samsung Warsaw,Remote,Remote,Undisclosed,Excel,"Excel, Python",Permanent
+Data Scientist,Sabre,Warsaw,Hybrid,20000 - 24000 PLN,Spark,"Spark, Kafka, Power BI, Python",B2B
+Data Engineer,Allegro,Warsaw,Hybrid,23000 - 26000 PLN,AWS,"AWS, Docker, Azure, Kafka, Spark",B2B
+Data Analyst,Sabre,Warsaw,Hybrid,11000 - 15000 PLN,Power BI,"Power BI, SQL",Permanent
+BI Developer,Capgemini,Warsaw,Hybrid,13000 - 20000 PLN,SQL,"SQL, Power BI",B2B
+BI Developer,PKO BP,Remote,Remote,12000 - 17000 PLN,Kafka,"Kafka, Power BI",B2B
+Data Engineer,Capgemini,Remote,Remote,26000 - 32000 PLN,AWS,"AWS, Power BI",B2B
+Data Engineer,Capgemini,Warsaw,Hybrid,25000 - 31000 PLN,Power BI,"Power BI, SQL",Permanent
+Data Scientist,EY,Remote,Remote,23000 - 30000 PLN,Azure,"Azure, Python, Excel, AWS",Permanent
+Data Analyst,Capgemini,Remote,Remote,9000 - 14000 PLN,Excel,"Excel, Tableau, SQL, Spark, Power BI",B2B
+Data Scientist,PKO BP,Remote,Remote,22000 - 27000 PLN,Tableau,"Tableau, Spark",Permanent
+Data Engineer,Capgemini,Warsaw,Hybrid,23000 - 30000 PLN,Azure,"Azure, AWS",Permanent
+Data Analyst,CD Projekt Red,Warsaw,Hybrid,13000 - 19000 PLN,Excel,"Excel, Kafka",B2B
+Data Scientist,EY,Warsaw,Hybrid,16000 - 19000 PLN,Excel,"Excel, SQL, AWS, Spark",B2B
+Machine Learning Engineer,mBank,Warsaw,Hybrid,17000 - 21000 PLN,SQL,"SQL, Azure, Spark, AWS",Permanent
+Data Scientist,Capgemini,Remote,Remote,16000 - 19000 PLN,Spark,"Spark, Docker",Permanent
+Data Scientist,EY,Remote,Remote,16000 - 20000 PLN,Tableau,"Tableau, Docker",B2B
+Data Analyst,mBank,Warsaw,Hybrid,13000 - 19000 PLN,Python,"Python, SQL, Spark",Permanent
+Data Engineer,CD Projekt Red,Warsaw,Hybrid,15000 - 18000 PLN,Kafka,"Kafka, Docker, SQL, Power BI",B2B
+Data Scientist,Deloitte,Warsaw,On-site,17000 - 21000 PLN,Power BI,"Power BI, Kafka, AWS, Docker",B2B
+BI Developer,EY,Remote,Remote,12000 - 15000 PLN,Tableau,"Tableau, Power BI",B2B
+Machine Learning Engineer,mBank,Remote,Remote,22000 - 29000 PLN,SQL,"SQL, Docker, Azure",Permanent
+Data Analyst,Sabre,Warsaw,On-site,Undisclosed,Kafka,"Kafka, Docker, SQL, Excel",B2B
+Data Engineer,Allegro,Warsaw,Hybrid,15000 - 20000 PLN,Python,"Python, Power BI, Azure, AWS, SQL",Permanent
+Data Scientist,Capgemini,Warsaw,On-site,17000 - 23000 PLN,Excel,"Excel, Docker, Tableau, Spark",Permanent
+Data Engineer,Sabre,Remote,Remote,Undisclosed,Kafka,"Kafka, Excel, Spark",Permanent
+BI Developer,Capgemini,Warsaw,Hybrid,10000 - 16000 PLN,AWS,"AWS, Spark, Power BI, SQL, Excel",Permanent
+Data Scientist,CD Projekt Red,Remote,Remote,18000 - 25000 PLN,Docker,"Docker, Spark, Kafka, AWS",Permanent
+Data Analyst,PKO BP,Remote,Remote,Undisclosed,Docker,"Docker, SQL",B2B
+Data Analyst,mBank,Remote,Remote,Undisclosed,Azure,"Azure, Docker, Tableau, Kafka",B2B
+Data Analyst,Capgemini,Remote,Remote,13000 - 17000 PLN,SQL,"SQL, AWS",B2B
+BI Developer,EY,Remote,Remote,Undisclosed,Azure,"Azure, Power BI, Excel",Permanent
+Data Analyst,PKO BP,Remote,Remote,11000 - 16000 PLN,Power BI,"Power BI, Spark, Kafka, SQL, Docker",Permanent
+Data Analyst,mBank,Warsaw,Hybrid,13000 - 20000 PLN,SQL,"SQL, AWS, Azure, Tableau, Power BI",Permanent
+Data Analyst,Sabre,Remote,Remote,12000 - 18000 PLN,SQL,"SQL, Spark",B2B
+Data Analyst,PKO BP,Warsaw,Hybrid,9000 - 16000 PLN,Python,"Python, Azure, AWS, Tableau",Permanent
+Data Analyst,EY,Warsaw,Hybrid,12000 - 16000 PLN,AWS,"AWS, Python",Permanent
+Data Engineer,mBank,Remote,Remote,25000 - 28000 PLN,Python,"Python, Spark, SQL, Tableau",Permanent
+BI Developer,CD Projekt Red,Remote,Remote,13000 - 19000 PLN,Azure,"Azure, Python",B2B
+BI Developer,PKO BP,Warsaw,On-site,10000 - 17000 PLN,AWS,"AWS, SQL, Azure, Docker, Tableau",Permanent
+Data Engineer,Allegro,Warsaw,Hybrid,23000 - 28000 PLN,Tableau,"Tableau, Docker",Permanent
+Data Engineer,PKO BP,Remote,Remote,19000 - 24000 PLN,Azure,"Azure, Spark, Kafka",B2B
+Data Engineer,Sabre,Remote,Remote,Undisclosed,Kafka,"Kafka, AWS, Azure, Spark",Permanent
+Data Scientist,EY,Warsaw,Hybrid,Undisclosed,AWS,"AWS, Docker",Permanent
+Data Analyst,Sabre,Remote,Remote,9000 - 13000 PLN,Excel,"Excel, SQL",Permanent
+Data Engineer,Sabre,Remote,Remote,15000 - 21000 PLN,Tableau,"Tableau, Kafka",B2B
+Machine Learning Engineer,CD Projekt Red,Remote,Remote,16000 - 20000 PLN,Kafka,"Kafka, Azure, Docker, AWS, Python",B2B
+Data Engineer,Allegro,Remote,Remote,24000 - 28000 PLN,AWS,"AWS, Excel",Permanent
+Data Scientist,EY,Remote,Remote,18000 - 22000 PLN,Python,"Python, Docker, SQL, Tableau, Azure",Permanent
+Data Scientist,Deloitte,Remote,Remote,15000 - 21000 PLN,Azure,"Azure, AWS, Excel, SQL",B2B
+Data Scientist,EY,Warsaw,Hybrid,16000 - 22000 PLN,Spark,"Spark, Power BI",B2B
+Data Scientist,Allegro,Remote,Remote,24000 - 30000 PLN,Kafka,"Kafka, Power BI, Python",B2B
+Data Scientist,mBank,Warsaw,On-site,Undisclosed,AWS,"AWS, Docker, Power BI, Tableau, Python",Permanent
+Data Analyst,Samsung Warsaw,Warsaw,Hybrid,13000 - 19000 PLN,Tableau,"Tableau, Azure, Docker, Kafka",Permanent
+Machine Learning Engineer,Capgemini,Remote,Remote,16000 - 20000 PLN,Power BI,"Power BI, AWS",Permanent
+Data Analyst,mBank,Remote,Remote,9000 - 13000 PLN,Power BI,"Power BI, Spark, Tableau, SQL",Permanent
+BI Developer,Sabre,Warsaw,On-site,9000 - 15000 PLN,Python,"Python, Kafka, Spark, Power BI",B2B
+Data Analyst,Capgemini,Warsaw,Hybrid,Undisclosed,Excel,"Excel, Kafka, SQL, AWS, Python",B2B
+Data Engineer,Capgemini,Warsaw,Hybrid,25000 - 31000 PLN,Spark,"Spark, Python, Power BI",B2B
+Data Engineer,Sabre,Warsaw,On-site,17000 - 22000 PLN,Excel,"Excel, Python",B2B
+BI Developer,CD Projekt Red,Warsaw,Hybrid,9000 - 14000 PLN,Python,"Python, Kafka",B2B
+Data Analyst,CD Projekt Red,Warsaw,Hybrid,11000 - 15000 PLN,Python,"Python, Docker, Azure, Spark",Permanent
+Data Scientist,PKO BP,Warsaw,Hybrid,21000 - 25000 PLN,Tableau,"Tableau, SQL, Power BI, Python, Docker",Permanent
+Data Analyst,Capgemini,Warsaw,Hybrid,12000 - 15000 PLN,Excel,"Excel, Docker, Spark, Kafka, SQL",B2B
+Data Analyst,EY,Warsaw,Hybrid,13000 - 17000 PLN,Python,"Python, Spark, Excel",Permanent
+Data Analyst,Allegro,Remote,Remote,11000 - 17000 PLN,Spark,"Spark, Kafka",B2B
+Data Analyst,PKO BP,Warsaw,Hybrid,8000 - 14000 PLN,AWS,"AWS, Power BI, Tableau, Excel",Permanent
+BI Developer,Allegro,Remote,Remote,10000 - 15000 PLN,Python,"Python, Kafka, SQL, Power BI, Docker",B2B
+Data Engineer,EY,Warsaw,Hybrid,17000 - 21000 PLN,AWS,"AWS, Power BI, Tableau, Spark",B2B
+Data Engineer,CD Projekt Red,Warsaw,Hybrid,19000 - 23000 PLN,AWS,"AWS, Tableau, Azure, Kafka, Excel",B2B
+Data Engineer,mBank,Remote,Remote,18000 - 25000 PLN,Power BI,"Power BI, Docker, Excel, Azure, Tableau",B2B
+Data Analyst,Allegro,Warsaw,Hybrid,12000 - 15000 PLN,Spark,"Spark, Power BI",Permanent
+Data Analyst,CD Projekt Red,Remote,Remote,8000 - 11000 PLN,AWS,"AWS, Python, Docker",Permanent
+Data Analyst,Deloitte,Warsaw,Hybrid,10000 - 17000 PLN,Python,"Python, Spark, SQL, AWS, Power BI",B2B
+Machine Learning Engineer,Samsung Warsaw,Warsaw,Hybrid,16000 - 22000 PLN,Kafka,"Kafka, AWS, Tableau",B2B
+Data Engineer,CD Projekt Red,Warsaw,Hybrid,15000 - 21000 PLN,Tableau,"Tableau, AWS, Docker, SQL",Permanent
+BI Developer,Sabre,Warsaw,Hybrid,11000 - 14000 PLN,Docker,"Docker, Power BI, Azure, AWS, Spark",B2B
+Data Analyst,Deloitte,Warsaw,Hybrid,13000 - 20000 PLN,Docker,"Docker, Kafka, Spark, Azure",Permanent
+Data Scientist,mBank,Warsaw,Hybrid,24000 - 31000 PLN,AWS,"AWS, Tableau, Excel, Azure",B2B
+Data Scientist,Allegro,Warsaw,Hybrid,22000 - 28000 PLN,Kafka,"Kafka, Tableau",B2B
+Data Analyst,Samsung Warsaw,Remote,Remote,14000 - 21000 PLN,Excel,"Excel, Kafka, SQL, Power BI, Docker",Permanent
+Data Scientist,Capgemini,Remote,Remote,16000 - 21000 PLN,Power BI,"Power BI, AWS",B2B
+BI Developer,EY,Warsaw,On-site,8000 - 11000 PLN,Docker,"Docker, Kafka, Azure",Permanent
+Data Analyst,Capgemini,Warsaw,On-site,9000 - 13000 PLN,Power BI,"Power BI, Spark, Azure",B2B
+Data Engineer,Capgemini,Warsaw,Hybrid,25000 - 28000 PLN,Excel,"Excel, AWS, Azure, SQL",B2B
+Data Engineer,Sabre,Remote,Remote,18000 - 21000 PLN,Azure,"Azure, SQL, Kafka, Python, Tableau",Permanent
+Data Scientist,Capgemini,Remote,Remote,23000 - 29000 PLN,Power BI,"Power BI, SQL, Kafka",Permanent
+Data Analyst,mBank,Remote,Remote,10000 - 15000 PLN,Tableau,"Tableau, Python",Permanent
+Data Engineer,Sabre,Warsaw,Hybrid,25000 - 31000 PLN,Spark,"Spark, Python, Tableau, Excel, AWS",B2B
+Data Engineer,Capgemini,Warsaw,Hybrid,20000 - 25000 PLN,Kafka,"Kafka, Power BI",Permanent
+Data Analyst,CD Projekt Red,Warsaw,Hybrid,Undisclosed,Power BI,"Power BI, Kafka, Docker",B2B
+Data Analyst,Capgemini,Warsaw,Hybrid,9000 - 12000 PLN,Power BI,"Power BI, Docker",B2B
+Data Engineer,Allegro,Remote,Remote,Undisclosed,AWS,"AWS, Docker, Power BI, Spark",Permanent
+Machine Learning Engineer,CD Projekt Red,Warsaw,Hybrid,22000 - 27000 PLN,Excel,"Excel, Spark, Tableau, Docker",Permanent
+BI Developer,Samsung Warsaw,Warsaw,Hybrid,10000 - 17000 PLN,AWS,"AWS, Spark, Docker, Python",B2B
+Data Engineer,Capgemini,Warsaw,Hybrid,23000 - 30000 PLN,Excel,"Excel, Azure, Docker, Python, Power BI",Permanent
+BI Developer,CD Projekt Red,Remote,Remote,9000 - 14000 PLN,Excel,"Excel, Tableau, Power BI, SQL, AWS",Permanent
+Machine Learning Engineer,CD Projekt Red,Warsaw,Hybrid,24000 - 30000 PLN,SQL,"SQL, Kafka, Spark",Permanent
+Data Analyst,Capgemini,Warsaw,Hybrid,9000 - 16000 PLN,Docker,"Docker, AWS, Azure",Permanent
+Data Analyst,Allegro,Warsaw,Hybrid,Undisclosed,Spark,"Spark, Python, Tableau",B2B
+Data Scientist,CD Projekt Red,Warsaw,Hybrid,17000 - 20000 PLN,AWS,"AWS, Power BI, Kafka, Excel, Spark",B2B
+Data Scientist,CD Projekt Red,Remote,Remote,20000 - 25000 PLN,Spark,"Spark, Docker",B2B
+Data Analyst,mBank,Remote,Remote,Undisclosed,Docker,"Docker, SQL, Power BI, Spark, Kafka",B2B
+Data Analyst,mBank,Remote,Remote,14000 - 18000 PLN,Docker,"Docker, AWS, SQL, Spark, Azure",Permanent
+BI Developer,Capgemini,Warsaw,Hybrid,12000 - 18000 PLN,Tableau,"Tableau, Excel, Docker, Kafka, SQL",B2B
+BI Developer,Capgemini,Warsaw,Hybrid,9000 - 16000 PLN,Docker,"Docker, Kafka, Spark, Tableau, SQL",B2B
+BI Developer,Sabre,Warsaw,On-site,8000 - 13000 PLN,SQL,"SQL, Power BI, Python, Kafka, Tableau",Permanent
+Data Analyst,mBank,Warsaw,Hybrid,9000 - 13000 PLN,Power BI,"Power BI, Azure, Tableau",Permanent
+Data Engineer,Allegro,Warsaw,Hybrid,19000 - 26000 PLN,SQL,"SQL, Power BI, Spark, Tableau",Permanent
+Data Engineer,Samsung Warsaw,Warsaw,Hybrid,Undisclosed,Spark,"Spark, Azure, Power BI, Excel, Tableau",B2B
+Data Scientist,EY,Remote,Remote,24000 - 27000 PLN,AWS,"AWS, Python, Kafka",Permanent
+BI Developer,Deloitte,Warsaw,Hybrid,8000 - 11000 PLN,Tableau,"Tableau, SQL, Spark, Azure",B2B
+BI Developer,Samsung Warsaw,Remote,Remote,8000 - 13000 PLN,SQL,"SQL, Kafka, Power BI",B2B
+BI Developer,Deloitte,Remote,Remote,Undisclosed,AWS,"AWS, Tableau, Spark, Kafka",Permanent
+Data Scientist,Sabre,Warsaw,Hybrid,15000 - 22000 PLN,Excel,"Excel, Power BI, Azure, Python",B2B
+Data Scientist,Deloitte,Remote,Remote,17000 - 24000 PLN,Excel,"Excel, Tableau",B2B
+Data Engineer,Allegro,Warsaw,On-site,20000 - 24000 PLN,Tableau,"Tableau, AWS, Excel, Python, Spark",Permanent
+Data Scientist,PKO BP,Warsaw,Hybrid,26000 - 33000 PLN,Azure,"Azure, SQL, Power BI, Docker",Permanent
+Machine Learning Engineer,Sabre,Warsaw,On-site,25000 - 28000 PLN,Tableau,"Tableau, Spark, Python, Power BI",B2B
+Data Engineer,Samsung Warsaw,Warsaw,Hybrid,21000 - 26000 PLN,AWS,"AWS, Azure",Permanent
+Data Analyst,CD Projekt Red,Warsaw,Hybrid,10000 - 13000 PLN,Spark,"Spark, Power BI, SQL, Docker",Permanent
+Data Engineer,PKO BP,Warsaw,On-site,15000 - 22000 PLN,Tableau,"Tableau, AWS, Spark",Permanent
+Data Analyst,Allegro,Warsaw,On-site,Undisclosed,SQL,"SQL, Tableau, Power BI",Permanent
+Data Engineer,mBank,Remote,Remote,Undisclosed,Excel,"Excel, Azure, Docker",Permanent
+Data Engineer,mBank,Warsaw,Hybrid,26000 - 30000 PLN,Azure,"Azure, SQL, Power BI, AWS",B2B
+BI Developer,Allegro,Warsaw,Hybrid,14000 - 19000 PLN,Power BI,"Power BI, Spark, Docker, Python",B2B
+BI Developer,mBank,Warsaw,Hybrid,13000 - 20000 PLN,Docker,"Docker, Python, Excel",B2B
+Data Engineer,PKO BP,Warsaw,On-site,26000 - 29000 PLN,Docker,"Docker, Kafka, SQL",B2B
+Data Analyst,Capgemini,Remote,Remote,12000 - 18000 PLN,Tableau,"Tableau, Excel, Python, Spark, Azure",B2B
+Data Analyst,PKO BP,Remote,Remote,11000 - 15000 PLN,Kafka,"Kafka, SQL",B2B
+Data Analyst,Allegro,Remote,Remote,Undisclosed,Spark,"Spark, Azure",B2B
+Data Scientist,mBank,Remote,Remote,23000 - 28000 PLN,Azure,"Azure, Tableau, Python, Power BI, Docker",Permanent
+Data Engineer,PKO BP,Remote,Remote,21000 - 25000 PLN,Excel,"Excel, Spark, Power BI, Kafka, Tableau",Permanent
+Data Analyst,Allegro,Warsaw,On-site,9000 - 14000 PLN,Azure,"Azure, Excel, SQL, Spark",Permanent
+Data Engineer,EY,Warsaw,Hybrid,Undisclosed,SQL,"SQL, Tableau",Permanent
+Data Analyst,Samsung Warsaw,Remote,Remote,11000 - 17000 PLN,AWS,"AWS, Power BI, Docker, Kafka",Permanent
+Data Engineer,Samsung Warsaw,Remote,Remote,21000 - 24000 PLN,Azure,"Azure, Tableau, Excel",B2B
+Data Scientist,mBank,Warsaw,Hybrid,Undisclosed,Python,"Python, Tableau",Permanent
+Data Engineer,CD Projekt Red,Warsaw,Hybrid,26000 - 30000 PLN,Tableau,"Tableau, SQL, Docker",B2B
+Data Analyst,mBank,Remote,Remote,13000 - 18000 PLN,SQL,"SQL, Docker, Spark",B2B
+Data Engineer,EY,Remote,Remote,20000 - 24000 PLN,SQL,"SQL, Power BI, AWS, Docker, Excel",B2B
+Data Engineer,Allegro,Warsaw,Hybrid,Undisclosed,Excel,"Excel, Power BI, Python",B2B
+BI Developer,Capgemini,Remote,Remote,8000 - 15000 PLN,AWS,"AWS, Kafka, Power BI, Docker, Tableau",Permanent
+Data Analyst,Sabre,Remote,Remote,11000 - 16000 PLN,Tableau,"Tableau, SQL, Excel",B2B
+Data Engineer,Capgemini,Remote,Remote,26000 - 30000 PLN,SQL,"SQL, Tableau, Kafka",B2B
+Data Analyst,Deloitte,Warsaw,Hybrid,11000 - 17000 PLN,SQL,"SQL, Spark",B2B
+Data Engineer,Deloitte,Remote,Remote,23000 - 26000 PLN,Python,"Python, Power BI",B2B
+Machine Learning Engineer,Deloitte,Remote,Remote,22000 - 29000 PLN,AWS,"AWS, Tableau, Docker, Excel, Kafka",B2B
+Data Engineer,Capgemini,Warsaw,On-site,23000 - 30000 PLN,Tableau,"Tableau, Kafka, Docker, SQL",B2B
+Data Analyst,mBank,Warsaw,Hybrid,9000 - 14000 PLN,Spark,"Spark, Docker",B2B
+Data Scientist,Deloitte,Remote,Remote,17000 - 24000 PLN,Excel,"Excel, SQL, Azure",Permanent
+Data Analyst,Allegro,Warsaw,Hybrid,11000 - 15000 PLN,Spark,"Spark, Tableau, Power BI, Excel",B2B
+BI Developer,mBank,Warsaw,Hybrid,8000 - 14000 PLN,Tableau,"Tableau, Kafka",Permanent
+Machine Learning Engineer,PKO BP,Remote,Remote,22000 - 29000 PLN,Docker,"Docker, Kafka",Permanent
+Data Analyst,Capgemini,Remote,Remote,13000 - 20000 PLN,Docker,"Docker, AWS, Azure, Excel",Permanent
+Data Engineer,Deloitte,Warsaw,On-site,17000 - 22000 PLN,Spark,"Spark, Docker, Kafka, Azure, Python",B2B
+Data Analyst,Allegro,Warsaw,Hybrid,14000 - 21000 PLN,Excel,"Excel, Kafka, SQL, AWS",Permanent
+Data Engineer,Deloitte,Warsaw,Hybrid,20000 - 27000 PLN,SQL,"SQL, AWS, Azure, Tableau",B2B
+BI Developer,EY,Warsaw,On-site,Undisclosed,Tableau,"Tableau, Power BI, Kafka, Azure, AWS",Permanent
+Data Analyst,Capgemini,Warsaw,Hybrid,9000 - 14000 PLN,SQL,"SQL, Power BI, Kafka, AWS, Python",B2B
+Data Analyst,Deloitte,Remote,Remote,14000 - 20000 PLN,Power BI,"Power BI, AWS",Permanent
+BI Developer,Sabre,Remote,Remote,Undisclosed,SQL,"SQL, Excel, Tableau",B2B
+Data Analyst,Samsung Warsaw,Remote,Remote,Undisclosed,Kafka,"Kafka, AWS, SQL, Excel, Azure",Permanent
+Data Engineer,Capgemini,Warsaw,On-site,17000 - 20000 PLN,Excel,"Excel, SQL, Spark",B2B
+Data Analyst,mBank,Warsaw,Hybrid,9000 - 16000 PLN,Tableau,"Tableau, Power BI, Python, Azure",B2B
+Data Analyst,PKO BP,Remote,Remote,Undisclosed,AWS,"AWS, Azure, Tableau, Excel",B2B
+Data Engineer,EY,Warsaw,Hybrid,19000 - 22000 PLN,AWS,"AWS, Excel, SQL, Azure",B2B
+Data Scientist,CD Projekt Red,Remote,Remote,25000 - 29000 PLN,Kafka,"Kafka, Excel",B2B
+Machine Learning Engineer,CD Projekt Red,Warsaw,Hybrid,15000 - 21000 PLN,Kafka,"Kafka, Spark, SQL",B2B
+Data Analyst,Samsung Warsaw,Remote,Remote,11000 - 18000 PLN,Python,"Python, Excel",Permanent
+Data Analyst,EY,Warsaw,Hybrid,10000 - 13000 PLN,Kafka,"Kafka, Docker, Excel, Azure, AWS",Permanent
+Data Scientist,Sabre,Remote,Remote,24000 - 31000 PLN,Azure,"Azure, SQL, AWS, Excel",B2B
+Data Engineer,EY,Warsaw,Hybrid,Undisclosed,Spark,"Spark, Docker, SQL, AWS",B2B
+Data Engineer,EY,Warsaw,Hybrid,18000 - 22000 PLN,SQL,"SQL, Python",B2B
+Data Analyst,Allegro,Warsaw,Hybrid,12000 - 17000 PLN,Azure,"Azure, Docker",B2B
+Data Engineer,Allegro,Warsaw,Hybrid,17000 - 20000 PLN,SQL,"SQL, Power BI",Permanent
+Data Analyst,Deloitte,Remote,Remote,10000 - 14000 PLN,Spark,"Spark, Kafka, AWS, Tableau, SQL",Permanent
+Data Analyst,CD Projekt Red,Warsaw,Hybrid,10000 - 13000 PLN,Excel,"Excel, AWS, Azure",Permanent
+Data Engineer,Sabre,Remote,Remote,23000 - 28000 PLN,Excel,"Excel, Docker, Tableau, SQL",Permanent
+Data Engineer,Samsung Warsaw,Warsaw,Hybrid,24000 - 28000 PLN,Python,"Python, Kafka, SQL, AWS, Tableau",Permanent
+Data Analyst,Allegro,Warsaw,Hybrid,12000 - 17000 PLN,Kafka,"Kafka, Spark",Permanent
+Data Engineer,Samsung Warsaw,Remote,Remote,22000 - 29000 PLN,Docker,"Docker, Excel, SQL, Tableau",B2B
+Data Analyst,Capgemini,Warsaw,Hybrid,9000 - 16000 PLN,Python,"Python, Docker, Kafka, Excel, Spark",Permanent
+Data Analyst,Allegro,Warsaw,On-site,10000 - 16000 PLN,Tableau,"Tableau, Python",Permanent
+Data Analyst,Deloitte,Warsaw,Hybrid,Undisclosed,Docker,"Docker, Python, SQL",Permanent
+Data Engineer,PKO BP,Remote,Remote,Undisclosed,Kafka,"Kafka, Power BI, Azure, Docker",B2B
+Data Analyst,EY,Warsaw,Hybrid,10000 - 17000 PLN,Python,"Python, AWS, Docker, Tableau, Power BI",Permanent
+BI Developer,Capgemini,Remote,Remote,Undisclosed,SQL,"SQL, Kafka, Docker, Azure",B2B
+Data Scientist,Sabre,Warsaw,Hybrid,17000 - 20000 PLN,Excel,"Excel, Docker, Tableau",B2B
+Data Scientist,Deloitte,Remote,Remote,18000 - 21000 PLN,AWS,"AWS, Docker, Kafka",B2B
+Data Scientist,Capgemini,Remote,Remote,25000 - 31000 PLN,AWS,"AWS, Power BI, SQL, Python",B2B
+Data Analyst,PKO BP,Warsaw,Hybrid,11000 - 17000 PLN,Excel,"Excel, SQL",Permanent
+Data Engineer,CD Projekt Red,Warsaw,Hybrid,18000 - 25000 PLN,AWS,"AWS, Spark, Tableau",Permanent
+Data Analyst,CD Projekt Red,Warsaw,Hybrid,10000 - 13000 PLN,Tableau,"Tableau, AWS, Excel, Spark",B2B
+Data Scientist,Capgemini,Remote,Remote,21000 - 28000 PLN,Excel,"Excel, Spark, Python, Azure",Permanent
+Data Scientist,Capgemini,Warsaw,Hybrid,20000 - 23000 PLN,Spark,"Spark, Power BI, Docker, Excel",B2B
+Data Analyst,PKO BP,Warsaw,Hybrid,8000 - 14000 PLN,Power BI,"Power BI, Azure, Tableau, Docker",Permanent
+Data Engineer,Sabre,Remote,Remote,20000 - 26000 PLN,SQL,"SQL, Excel, Azure, Python, AWS",B2B
+Data Engineer,Sabre,Warsaw,Hybrid,19000 - 23000 PLN,Azure,"Azure, SQL, AWS",B2B
+Data Analyst,EY,Remote,Remote,12000 - 17000 PLN,AWS,"AWS, Spark, Azure",Permanent
+BI Developer,mBank,Warsaw,On-site,12000 - 17000 PLN,Python,"Python, Spark, Power BI, Azure",Permanent
+BI Developer,Deloitte,Warsaw,Hybrid,14000 - 19000 PLN,Docker,"Docker, SQL, Azure, Tableau",B2B
+BI Developer,CD Projekt Red,Remote,Remote,10000 - 16000 PLN,Kafka,"Kafka, Azure, Excel",B2B
+Data Scientist,mBank,Remote,Remote,24000 - 27000 PLN,Docker,"Docker, Python, AWS, Azure, Kafka",B2B
+Data Scientist,mBank,Warsaw,Hybrid,19000 - 23000 PLN,Spark,"Spark, Docker, AWS",B2B
+Data Scientist,PKO BP,Warsaw,On-site,Undisclosed,Spark,"Spark, Azure, Excel",Permanent
+Data Analyst,Samsung Warsaw,Warsaw,On-site,10000 - 14000 PLN,Spark,"Spark, Kafka, SQL",B2B
+Machine Learning Engineer,Allegro,Warsaw,On-site,21000 - 28000 PLN,AWS,"AWS, Power BI, Spark",Permanent
+Data Analyst,Deloitte,Remote,Remote,Undisclosed,Excel,"Excel, AWS",Permanent
+Data Analyst,EY,Remote,Remote,13000 - 17000 PLN,Azure,"Azure, Kafka, Excel, Docker, SQL",Permanent
+Data Scientist,PKO BP,Warsaw,On-site,Undisclosed,Docker,"Docker, Python, Excel",B2B
+BI Developer,PKO BP,Warsaw,Hybrid,8000 - 14000 PLN,Power BI,"Power BI, Kafka, Excel, AWS",B2B
+Data Engineer,Capgemini,Remote,Remote,22000 - 25000 PLN,Power BI,"Power BI, Docker, Tableau",Permanent
+Data Analyst,mBank,Remote,Remote,Undisclosed,Power BI,"Power BI, Azure, Docker, Excel, Kafka",B2B
+BI Developer,Allegro,Remote,Remote,12000 - 19000 PLN,Python,"Python, Azure",Permanent
+Data Analyst,Samsung Warsaw,Warsaw,Hybrid,12000 - 19000 PLN,Docker,"Docker, Power BI, AWS, Kafka",B2B
+BI Developer,Deloitte,Warsaw,Hybrid,Undisclosed,SQL,"SQL, Power BI",Permanent
+BI Developer,Allegro,Warsaw,Hybrid,13000 - 19000 PLN,SQL,"SQL, AWS, Excel",Permanent
+Data Scientist,Capgemini,Warsaw,On-site,22000 - 27000 PLN,SQL,"SQL, Python, Spark",Permanent
+Data Engineer,Capgemini,Warsaw,Hybrid,17000 - 23000 PLN,Kafka,"Kafka, Spark, Excel, Docker",Permanent
+Data Engineer,CD Projekt Red,Warsaw,Hybrid,16000 - 19000 PLN,Azure,"Azure, Power BI, Kafka, Excel",Permanent
+Data Engineer,CD Projekt Red,Warsaw,On-site,20000 - 24000 PLN,SQL,"SQL, Kafka",Permanent
+Data Engineer,Sabre,Warsaw,On-site,26000 - 30000 PLN,SQL,"SQL, Docker, Spark",Permanent
+Data Engineer,EY,Remote,Remote,21000 - 25000 PLN,Spark,"Spark, AWS, Docker, Python, Tableau",B2B
+Data Scientist,Allegro,Remote,Remote,17000 - 23000 PLN,Tableau,"Tableau, Spark",Permanent
+Data Analyst,Samsung Warsaw,Remote,Remote,11000 - 18000 PLN,Azure,"Azure, Spark, Docker",Permanent
+Data Analyst,PKO BP,Warsaw,Hybrid,13000 - 19000 PLN,AWS,"AWS, Spark, Power BI",Permanent
+Data Analyst,EY,Remote,Remote,13000 - 20000 PLN,Tableau,"Tableau, Python, Azure",B2B
+Machine Learning Engineer,PKO BP,Remote,Remote,18000 - 24000 PLN,Azure,"Azure, Excel, Power BI",B2B
+Data Engineer,Sabre,Warsaw,Hybrid,25000 - 30000 PLN,Spark,"Spark, Power BI, SQL, Azure, Excel",B2B
+Data Engineer,EY,Remote,Remote,26000 - 31000 PLN,Power BI,"Power BI, SQL, Python",B2B
+BI Developer,Deloitte,Remote,Remote,9000 - 12000 PLN,SQL,"SQL, Python",B2B
+Data Engineer,Allegro,Warsaw,On-site,17000 - 21000 PLN,Azure,"Azure, Python, SQL, Excel",Permanent
+Data Scientist,mBank,Warsaw,Hybrid,19000 - 24000 PLN,SQL,"SQL, Excel, Kafka",B2B
+Data Engineer,EY,Remote,Remote,17000 - 23000 PLN,AWS,"AWS, Spark, Kafka",Permanent
+BI Developer,Capgemini,Warsaw,Hybrid,13000 - 20000 PLN,Spark,"Spark, Docker",Permanent
+Data Analyst,Allegro,Remote,Remote,14000 - 21000 PLN,Azure,"Azure, Power BI, AWS, SQL",Permanent
+Data Analyst,Capgemini,Warsaw,Hybrid,11000 - 17000 PLN,SQL,"SQL, Excel, Spark, AWS",Permanent
+Data Scientist,CD Projekt Red,Warsaw,Hybrid,18000 - 24000 PLN,Docker,"Docker, Tableau, SQL, Azure",B2B
+Data Engineer,Deloitte,Remote,Remote,22000 - 26000 PLN,Python,"Python, Azure, Kafka, SQL",Permanent
+Data Analyst,mBank,Warsaw,Hybrid,11000 - 15000 PLN,Python,"Python, Tableau, Spark",B2B
+Data Analyst,Allegro,Remote,Remote,11000 - 14000 PLN,Kafka,"Kafka, Azure, Spark, Power BI, Tableau",Permanent
+Data Analyst,Allegro,Remote,Remote,12000 - 16000 PLN,Spark,"Spark, Power BI",B2B
+BI Developer,Capgemini,Remote,Remote,10000 - 17000 PLN,AWS,"AWS, Power BI, Kafka, Docker, SQL",B2B
+Data Scientist,PKO BP,Warsaw,Hybrid,21000 - 27000 PLN,SQL,"SQL, Spark, Azure, Excel",Permanent
+Data Scientist,Samsung Warsaw,Remote,Remote,Undisclosed,Kafka,"Kafka, Azure, Tableau, SQL",Permanent
+Data Engineer,CD Projekt Red,Remote,Remote,26000 - 31000 PLN,SQL,"SQL, Power BI, Python, Spark, Kafka",Permanent
+Machine Learning Engineer,CD Projekt Red,Remote,Remote,20000 - 25000 PLN,Docker,"Docker, Spark, Azure, SQL, Kafka",B2B
+Data Engineer,Allegro,Warsaw,Hybrid,24000 - 29000 PLN,AWS,"AWS, Kafka",B2B
+Data Engineer,Capgemini,Remote,Remote,15000 - 19000 PLN,Kafka,"Kafka, Docker, AWS, SQL",Permanent
+Data Engineer,Samsung Warsaw,Warsaw,Hybrid,Undisclosed,Tableau,"Tableau, AWS",Permanent
+Data Analyst,CD Projekt Red,Remote,Remote,9000 - 13000 PLN,Azure,"Azure, AWS, Tableau, Python",B2B
+Data Analyst,EY,Warsaw,On-site,10000 - 16000 PLN,Spark,"Spark, Excel, Power BI, Tableau",Permanent
+Data Analyst,Samsung Warsaw,Warsaw,On-site,13000 - 17000 PLN,Spark,"Spark, AWS, Docker, Tableau",Permanent
+Data Engineer,Deloitte,Warsaw,Hybrid,18000 - 25000 PLN,Azure,"Azure, Tableau, AWS, SQL, Kafka",Permanent
+Data Analyst,Sabre,Remote,Remote,8000 - 12000 PLN,SQL,"SQL, Power BI",B2B
+Data Scientist,Samsung Warsaw,Remote,Remote,26000 - 29000 PLN,Power BI,"Power BI, Kafka",B2B
+BI Developer,Allegro,Warsaw,Hybrid,8000 - 12000 PLN,AWS,"AWS, Tableau, Kafka",B2B
+Data Analyst,Capgemini,Warsaw,Hybrid,11000 - 17000 PLN,Power BI,"Power BI, Python, Tableau, Docker, Excel",B2B
+Data Analyst,EY,Remote,Remote,14000 - 21000 PLN,Python,"Python, AWS, Power BI, Azure",Permanent
+BI Developer,mBank,Warsaw,Hybrid,9000 - 15000 PLN,Tableau,"Tableau, Kafka, Spark, Power BI",Permanent
+Data Scientist,Sabre,Warsaw,Hybrid,23000 - 27000 PLN,Azure,"Azure, Tableau, Spark, Python",B2B
+Data Analyst,Capgemini,Remote,Remote,12000 - 16000 PLN,Tableau,"Tableau, Kafka, SQL, Excel",Permanent
+Data Engineer,Capgemini,Remote,Remote,21000 - 25000 PLN,Power BI,"Power BI, Python",Permanent
+BI Developer,EY,Warsaw,Hybrid,Undisclosed,SQL,"SQL, Excel, Spark, Docker, Tableau",Permanent
+Data Analyst,Samsung Warsaw,Warsaw,Hybrid,12000 - 16000 PLN,Azure,"Azure, Docker, Tableau, Spark, SQL",Permanent
+Machine Learning Engineer,Sabre,Remote,Remote,16000 - 20000 PLN,AWS,"AWS, Excel, Power BI, Python, Tableau",Permanent
+Data Analyst,Deloitte,Warsaw,Hybrid,13000 - 16000 PLN,Docker,"Docker, Python, AWS, Azure",B2B
+BI Developer,Allegro,Warsaw,Hybrid,12000 - 19000 PLN,Docker,"Docker, Excel, AWS, Kafka, Spark",Permanent
+Data Engineer,Allegro,Remote,Remote,26000 - 33000 PLN,AWS,"AWS, Excel",Permanent
+Data Scientist,CD Projekt Red,Warsaw,On-site,Undisclosed,SQL,"SQL, AWS, Azure, Docker",Permanent
+Data Engineer,Sabre,Remote,Remote,20000 - 24000 PLN,Python,"Python, AWS, Kafka",B2B
+Data Analyst,Sabre,Warsaw,Hybrid,10000 - 17000 PLN,Azure,"Azure, Power BI, SQL, AWS, Kafka",Permanent
+Data Scientist,Deloitte,Remote,Remote,25000 - 31000 PLN,AWS,"AWS, SQL, Azure, Kafka, Power BI",Permanent
+Data Engineer,CD Projekt Red,Warsaw,Hybrid,19000 - 25000 PLN,Kafka,"Kafka, Python, Spark",B2B
+Data Analyst,PKO BP,Warsaw,Hybrid,13000 - 17000 PLN,Spark,"Spark, Power BI",B2B
+Data Analyst,Allegro,Warsaw,Hybrid,12000 - 16000 PLN,Python,"Python, Excel, Azure, Spark",B2B
+Data Analyst,mBank,Warsaw,Hybrid,9000 - 14000 PLN,AWS,"AWS, Kafka, SQL, Power BI, Spark",Permanent
+Data Scientist,EY,Remote,Remote,Undisclosed,AWS,"AWS, Excel, Kafka, Docker",Permanent
+Data Engineer,Sabre,Warsaw,Hybrid,25000 - 28000 PLN,Spark,"Spark, Docker",Permanent
+Data Scientist,mBank,Warsaw,Hybrid,23000 - 27000 PLN,AWS,"AWS, SQL, Tableau, Kafka, Azure",B2B
+BI Developer,CD Projekt Red,Remote,Remote,Undisclosed,SQL,"SQL, Spark, Tableau, Power BI",Permanent
+Data Scientist,Allegro,Remote,Remote,17000 - 20000 PLN,AWS,"AWS, Spark, SQL",B2B
+BI Developer,Deloitte,Warsaw,On-site,8000 - 15000 PLN,Azure,"Azure, Docker, Power BI",Permanent
+Data Engineer,CD Projekt Red,Warsaw,Hybrid,Undisclosed,Azure,"Azure, SQL",B2B
+BI Developer,CD Projekt Red,Remote,Remote,8000 - 11000 PLN,Excel,"Excel, Python, AWS, Spark, Power BI",Permanent
+Data Engineer,Capgemini,Remote,Remote,21000 - 25000 PLN,Python,"Python, Tableau, Excel, Power BI, Spark",B2B
+Data Analyst,Allegro,Warsaw,Hybrid,12000 - 16000 PLN,Kafka,"Kafka, Azure",B2B
+Data Scientist,EY,Warsaw,On-site,18000 - 23000 PLN,Kafka,"Kafka, Spark",B2B
+Data Engineer,Samsung Warsaw,Warsaw,On-site,23000 - 27000 PLN,AWS,"AWS, Spark, Kafka, Azure, Python",Permanent
+Data Engineer,Capgemini,Warsaw,Hybrid,15000 - 22000 PLN,Kafka,"Kafka, Spark, Python",Permanent
+BI Developer,CD Projekt Red,Warsaw,Hybrid,12000 - 17000 PLN,Spark,"Spark, Docker, Azure",B2B
+Data Analyst,Samsung Warsaw,Warsaw,Hybrid,9000 - 13000 PLN,Tableau,"Tableau, AWS, Python, Docker",B2B
+Data Scientist,Deloitte,Warsaw,Hybrid,17000 - 22000 PLN,Excel,"Excel, Azure, Python",Permanent
+Data Engineer,Samsung Warsaw,Warsaw,Hybrid,17000 - 20000 PLN,Kafka,"Kafka, Power BI",Permanent
+Data Analyst,EY,Remote,Remote,11000 - 14000 PLN,Excel,"Excel, AWS, Azure, Kafka",Permanent
+Data Engineer,Deloitte,Warsaw,Hybrid,21000 - 24000 PLN,Python,"Python, Excel, Azure, Spark",Permanent
+BI Developer,CD Projekt Red,Warsaw,Hybrid,14000 - 20000 PLN,SQL,"SQL, Excel",B2B
+Data Engineer,Sabre,Remote,Remote,21000 - 28000 PLN,Tableau,"Tableau, Python, Excel, Power BI, Azure",B2B
+Data Analyst,Allegro,Warsaw,Hybrid,10000 - 14000 PLN,Spark,"Spark, Azure",Permanent
+Data Scientist,Samsung Warsaw,Warsaw,Hybrid,Undisclosed,Power BI,"Power BI, Azure, SQL, Python",Permanent
+BI Developer,Capgemini,Warsaw,Hybrid,10000 - 17000 PLN,Python,"Python, Power BI, Docker",B2B
+Data Engineer,Capgemini,Warsaw,Hybrid,15000 - 18000 PLN,AWS,"AWS, Tableau, Docker, Excel",Permanent
+Data Engineer,CD Projekt Red,Warsaw,On-site,21000 - 26000 PLN,AWS,"AWS, SQL",Permanent
+BI Developer,CD Projekt Red,Remote,Remote,8000 - 15000 PLN,Kafka,"Kafka, Spark, Docker",Permanent
+Data Scientist,mBank,Warsaw,Hybrid,20000 - 25000 PLN,Spark,"Spark, Tableau, Docker, SQL",B2B
+BI Developer,Samsung Warsaw,Warsaw,On-site,12000 - 17000 PLN,SQL,"SQL, Tableau",B2B
+Data Scientist,CD Projekt Red,Remote,Remote,25000 - 32000 PLN,AWS,"AWS, Tableau",Permanent
+Data Analyst,Samsung Warsaw,Warsaw,Hybrid,10000 - 16000 PLN,Power BI,"Power BI, Azure",B2B
+Data Engineer,Deloitte,Remote,Remote,26000 - 33000 PLN,Power BI,"Power BI, Docker, AWS, Kafka, Python",Permanent
+BI Developer,Samsung Warsaw,Remote,Remote,13000 - 16000 PLN,SQL,"SQL, Azure, Docker, Python",Permanent
+Data Scientist,CD Projekt Red,Remote,Remote,22000 - 28000 PLN,Python,"Python, Excel, Power BI, Spark",B2B
+Data Analyst,Allegro,Remote,Remote,13000 - 16000 PLN,Excel,"Excel, Docker, Azure, SQL",Permanent
+Data Engineer,Allegro,Warsaw,Hybrid,16000 - 23000 PLN,Azure,"Azure, Tableau, Excel",Permanent
+Data Analyst,PKO BP,Remote,Remote,10000 - 17000 PLN,Power BI,"Power BI, Tableau, Spark",Permanent
+Data Scientist,PKO BP,Warsaw,Hybrid,20000 - 23000 PLN,Docker,"Docker, Excel, Spark, Power BI, Python",B2B
+Data Scientist,Allegro,Warsaw,On-site,17000 - 23000 PLN,Docker,"Docker, Azure, AWS, SQL, Power BI",Permanent
+Data Engineer,Sabre,Remote,Remote,20000 - 25000 PLN,SQL,"SQL, Tableau",B2B
+Data Analyst,Capgemini,Remote,Remote,14000 - 21000 PLN,Docker,"Docker, Excel",Permanent
+Data Engineer,EY,Warsaw,Hybrid,16000 - 20000 PLN,Spark,"Spark, Tableau, Docker, Excel",B2B
+Data Analyst,CD Projekt Red,Warsaw,Hybrid,11000 - 17000 PLN,Excel,"Excel, Python",Permanent
+Data Scientist,Sabre,Warsaw,Hybrid,16000 - 19000 PLN,Azure,"Azure, Excel, Python, Spark, SQL",B2B
+Data Analyst,PKO BP,Remote,Remote,9000 - 16000 PLN,Kafka,"Kafka, Excel, AWS, Azure",B2B
+Data Scientist,Samsung Warsaw,Warsaw,Hybrid,16000 - 21000 PLN,SQL,"SQL, Kafka, Python, AWS",B2B
+Data Analyst,Deloitte,Remote,Remote,13000 - 20000 PLN,Tableau,"Tableau, Spark, Docker, Azure, SQL",B2B
+Data Analyst,CD Projekt Red,Remote,Remote,12000 - 17000 PLN,AWS,"AWS, Azure, Docker",B2B
+Data Engineer,Samsung Warsaw,Warsaw,Hybrid,25000 - 31000 PLN,Excel,"Excel, Azure, SQL, Kafka, Docker",Permanent
+Data Scientist,Sabre,Warsaw,Hybrid,Undisclosed,Spark,"Spark, AWS",Permanent
+Data Analyst,PKO BP,Warsaw,Hybrid,11000 - 15000 PLN,Spark,"Spark, Azure, SQL, Docker",Permanent
+Data Analyst,PKO BP,Remote,Remote,12000 - 17000 PLN,AWS,"AWS, Excel",Permanent
+Machine Learning Engineer,Allegro,Warsaw,Hybrid,Undisclosed,Excel,"Excel, AWS, Azure",Permanent
+Data Engineer,PKO BP,Remote,Remote,Undisclosed,AWS,"AWS, Kafka",Permanent
+BI Developer,Samsung Warsaw,Remote,Remote,8000 - 12000 PLN,Kafka,"Kafka, Excel, Tableau, Power BI, Python",Permanent
+Data Engineer,Allegro,Remote,Remote,20000 - 25000 PLN,Python,"Python, Excel",Permanent
+Data Analyst,CD Projekt Red,Warsaw,On-site,10000 - 15000 PLN,Spark,"Spark, Tableau, Kafka, Azure",Permanent
+Data Engineer,Sabre,Warsaw,Hybrid,18000 - 21000 PLN,Azure,"Azure, Kafka, Python, Docker",B2B
+Data Analyst,PKO BP,Warsaw,Hybrid,12000 - 19000 PLN,SQL,"SQL, Excel, Kafka, Tableau, Power BI",B2B
+Data Engineer,Deloitte,Remote,Remote,Undisclosed,Azure,"Azure, AWS",Permanent
+Data Engineer,Sabre,Warsaw,On-site,25000 - 28000 PLN,SQL,"SQL, Kafka, Spark, Power BI",Permanent
+BI Developer,Samsung Warsaw,Warsaw,On-site,Undisclosed,AWS,"AWS, Power BI, Kafka, Azure, SQL",B2B
+Machine Learning Engineer,Deloitte,Warsaw,Hybrid,Undisclosed,Python,"Python, Tableau",B2B
+Data Engineer,mBank,Remote,Remote,22000 - 25000 PLN,Docker,"Docker, Excel, AWS, Power BI, Spark",Permanent
+Data Scientist,Sabre,Remote,Remote,18000 - 24000 PLN,AWS,"AWS, Kafka, Azure, Spark",Permanent
+Data Scientist,Allegro,Remote,Remote,Undisclosed,Spark,"Spark, Azure, Docker",Permanent
+BI Developer,Samsung Warsaw,Warsaw,Hybrid,9000 - 15000 PLN,Azure,"Azure, Kafka",B2B
+Data Scientist,Deloitte,Remote,Remote,24000 - 30000 PLN,SQL,"SQL, Excel, Docker, AWS, Python",Permanent
+Data Analyst,EY,Remote,Remote,9000 - 16000 PLN,Kafka,"Kafka, Azure",Permanent
+Data Analyst,Samsung Warsaw,Remote,Remote,Undisclosed,Python,"Python, SQL, Docker, Kafka",B2B
+Data Analyst,CD Projekt Red,Warsaw,Hybrid,11000 - 17000 PLN,Power BI,"Power BI, Python, Excel",B2B
+Data Analyst,EY,Remote,Remote,8000 - 11000 PLN,Python,"Python, AWS, Azure, Spark",B2B
+Data Analyst,Deloitte,Warsaw,Hybrid,12000 - 18000 PLN,Spark,"Spark, SQL, Kafka, AWS",Permanent
+Data Analyst,Deloitte,Warsaw,Hybrid,14000 - 20000 PLN,Excel,"Excel, Spark",Permanent
+Data Analyst,Samsung Warsaw,Remote,Remote,8000 - 13000 PLN,AWS,"AWS, Excel, Power BI, Tableau, Azure",B2B
+Data Scientist,Capgemini,Warsaw,On-site,24000 - 28000 PLN,Azure,"Azure, Python, SQL, Excel",Permanent
+Data Analyst,Sabre,Warsaw,Hybrid,12000 - 16000 PLN,Azure,"Azure, AWS, Spark",Permanent
+Data Scientist,EY,Remote,Remote,21000 - 28000 PLN,SQL,"SQL, Spark, Docker, Excel, Kafka",B2B
+Data Analyst,Samsung Warsaw,Warsaw,Hybrid,8000 - 13000 PLN,Tableau,"Tableau, Azure, Excel, Docker, Kafka",B2B
+Data Analyst,Allegro,Warsaw,Hybrid,8000 - 15000 PLN,AWS,"AWS, Python, Tableau",B2B
+Machine Learning Engineer,CD Projekt Red,Warsaw,On-site,Undisclosed,Python,"Python, SQL",Permanent
+Data Analyst,Sabre,Remote,Remote,Undisclosed,Azure,"Azure, AWS, Excel, Power BI",B2B
+Data Analyst,Capgemini,Remote,Remote,8000 - 12000 PLN,AWS,"AWS, Python, Azure",Permanent
+Data Analyst,Allegro,Remote,Remote,11000 - 18000 PLN,SQL,"SQL, Kafka, Spark, Power BI, Tableau",B2B
+BI Developer,mBank,Remote,Remote,10000 - 17000 PLN,Azure,"Azure, Tableau, Power BI, SQL",Permanent
+Data Scientist,Deloitte,Remote,Remote,18000 - 25000 PLN,Azure,"Azure, Excel, Python",B2B
+Data Analyst,Capgemini,Remote,Remote,8000 - 15000 PLN,Docker,"Docker, AWS, Power BI, SQL, Excel",Permanent
+Data Engineer,Samsung Warsaw,Warsaw,Hybrid,23000 - 26000 PLN,Spark,"Spark, Power BI",Permanent
+Data Scientist,EY,Warsaw,Hybrid,16000 - 22000 PLN,AWS,"AWS, Docker, Excel",Permanent
+Data Scientist,EY,Warsaw,Hybrid,Undisclosed,Kafka,"Kafka, Excel, Spark, Docker",Permanent
+Data Scientist,Sabre,Warsaw,Hybrid,Undisclosed,Python,"Python, Spark, AWS",B2B
+Data Engineer,Allegro,Warsaw,Hybrid,20000 - 26000 PLN,AWS,"AWS, Azure, SQL, Kafka, Spark",Permanent
+Data Engineer,Capgemini,Warsaw,Hybrid,22000 - 26000 PLN,Tableau,"Tableau, Docker",Permanent
+Data Scientist,PKO BP,Warsaw,Hybrid,19000 - 26000 PLN,Power BI,"Power BI, Kafka, AWS, Docker, Spark",B2B
+Machine Learning Engineer,mBank,Warsaw,Hybrid,16000 - 23000 PLN,Power BI,"Power BI, Kafka, SQL, Spark",Permanent
+Data Scientist,CD Projekt Red,Warsaw,Hybrid,Undisclosed,Docker,"Docker, AWS",B2B
+Data Scientist,mBank,Warsaw,Hybrid,26000 - 30000 PLN,Excel,"Excel, Docker",Permanent
+BI Developer,Sabre,Remote,Remote,14000 - 18000 PLN,Python,"Python, Kafka, Docker",B2B
+BI Developer,mBank,Warsaw,Hybrid,10000 - 14000 PLN,Python,"Python, Docker, Spark, Excel, Azure",Permanent
+Data Analyst,EY,Remote,Remote,10000 - 13000 PLN,Docker,"Docker, Kafka, SQL, Excel, Azure",B2B
+Data Engineer,Sabre,Remote,Remote,25000 - 30000 PLN,AWS,"AWS, SQL, Spark, Tableau, Azure",B2B
+Data Scientist,Deloitte,Warsaw,Hybrid,23000 - 27000 PLN,Python,"Python, Spark, Tableau, Power BI, Kafka",B2B
+Data Engineer,Sabre,Remote,Remote,23000 - 28000 PLN,Azure,"Azure, Docker",B2B
+BI Developer,mBank,Warsaw,Hybrid,8000 - 11000 PLN,Docker,"Docker, SQL",B2B
+Data Analyst,Allegro,Warsaw,On-site,Undisclosed,Python,"Python, Kafka, Spark",Permanent
+Data Scientist,Allegro,Warsaw,Hybrid,15000 - 22000 PLN,Spark,"Spark, Power BI",Permanent
+Data Analyst,Samsung Warsaw,Warsaw,Hybrid,13000 - 20000 PLN,SQL,"SQL, Spark, AWS, Tableau, Excel",Permanent
+Machine Learning Engineer,EY,Warsaw,On-site,15000 - 18000 PLN,Azure,"Azure, Docker",B2B
+Data Analyst,PKO BP,Warsaw,Hybrid,13000 - 18000 PLN,Excel,"Excel, Power BI, Python, Kafka, AWS",Permanent
+Data Analyst,PKO BP,Remote,Remote,9000 - 15000 PLN,Kafka,"Kafka, Azure",B2B
+Data Analyst,CD Projekt Red,Remote,Remote,Undisclosed,Power BI,"Power BI, Kafka, Azure, Tableau, Spark",B2B
+Data Analyst,Capgemini,Remote,Remote,8000 - 15000 PLN,Python,"Python, Kafka, Azure, Power BI",Permanent
+Data Engineer,EY,Warsaw,Hybrid,15000 - 18000 PLN,SQL,"SQL, Python",B2B
+Data Analyst,Samsung Warsaw,Warsaw,Hybrid,Undisclosed,SQL,"SQL, Spark, Python, Power BI",Permanent
+BI Developer,Allegro,Warsaw,Hybrid,13000 - 18000 PLN,Excel,"Excel, Kafka",B2B
+Data Analyst,Samsung Warsaw,Remote,Remote,12000 - 18000 PLN,Tableau,"Tableau, Docker, Kafka, Python, Excel",Permanent
+BI Developer,Samsung Warsaw,Warsaw,Hybrid,9000 - 14000 PLN,Spark,"Spark, Python, Docker",B2B
+BI Developer,Samsung Warsaw,Remote,Remote,9000 - 14000 PLN,Docker,"Docker, Kafka",B2B
+Machine Learning Engineer,Allegro,Warsaw,Hybrid,24000 - 29000 PLN,Azure,"Azure, SQL, Python",Permanent
+Data Analyst,PKO BP,Remote,Remote,13000 - 17000 PLN,Tableau,"Tableau, SQL",B2B
+Data Scientist,Samsung Warsaw,Warsaw,Hybrid,19000 - 23000 PLN,Kafka,"Kafka, AWS",B2B
+Data Analyst,Allegro,Remote,Remote,12000 - 17000 PLN,Azure,"Azure, Power BI, Kafka, Excel",B2B
+Data Engineer,Capgemini,Warsaw,Hybrid,Undisclosed,Kafka,"Kafka, Power BI, Tableau, Python",B2B
+Data Engineer,Allegro,Remote,Remote,26000 - 30000 PLN,SQL,"SQL, AWS, Python",Permanent
+BI Developer,Allegro,Warsaw,Hybrid,11000 - 16000 PLN,Azure,"Azure, Power BI",B2B
+Data Analyst,mBank,Warsaw,Hybrid,14000 - 21000 PLN,Azure,"Azure, AWS, Tableau, Spark",B2B
+Data Analyst,CD Projekt Red,Warsaw,On-site,13000 - 20000 PLN,AWS,"AWS, Azure, Kafka, Tableau",B2B
+Data Analyst,Allegro,Remote,Remote,10000 - 14000 PLN,SQL,"SQL, Excel",B2B
+Data Engineer,EY,Warsaw,Hybrid,21000 - 27000 PLN,Kafka,"Kafka, Tableau, AWS, Excel",B2B
+Data Analyst,EY,Warsaw,On-site,Undisclosed,Power BI,"Power BI, Python",B2B
+Data Engineer,CD Projekt Red,Warsaw,Hybrid,Undisclosed,Kafka,"Kafka, Azure, Power BI",Permanent
+BI Developer,Sabre,Remote,Remote,8000 - 11000 PLN,Azure,"Azure, Python",B2B
+Machine Learning Engineer,Deloitte,Warsaw,On-site,15000 - 18000 PLN,SQL,"SQL, Excel",B2B
+BI Developer,PKO BP,Warsaw,Hybrid,9000 - 14000 PLN,Tableau,"Tableau, Spark, Azure, Docker",Permanent
+Data Scientist,Deloitte,Remote,Remote,17000 - 20000 PLN,SQL,"SQL, Tableau, Excel, Kafka, Python",B2B
+Data Analyst,mBank,Warsaw,Hybrid,Undisclosed,Tableau,"Tableau, SQL, Power BI",B2B
+BI Developer,CD Projekt Red,Remote,Remote,9000 - 13000 PLN,Tableau,"Tableau, Power BI, Python, Spark, SQL",B2B
+Data Engineer,mBank,Remote,Remote,16000 - 19000 PLN,SQL,"SQL, Power BI, Excel",B2B
+BI Developer,Samsung Warsaw,Remote,Remote,14000 - 19000 PLN,Kafka,"Kafka, Power BI, Docker, Spark",B2B
+Data Scientist,Samsung Warsaw,Warsaw,Hybrid,16000 - 22000 PLN,Python,"Python, Spark, Power BI, Tableau, Azure",B2B
+Data Engineer,Capgemini,Warsaw,Hybrid,25000 - 29000 PLN,Power BI,"Power BI, Azure, AWS, Docker",B2B
+Data Scientist,Samsung Warsaw,Warsaw,Hybrid,Undisclosed,SQL,"SQL, Excel",B2B
+BI Developer,CD Projekt Red,Warsaw,Hybrid,12000 - 16000 PLN,AWS,"AWS, Spark, Tableau, Azure",B2B
+Data Scientist,Sabre,Warsaw,Hybrid,25000 - 29000 PLN,Docker,"Docker, AWS, Spark, Kafka",B2B
+Data Engineer,Allegro,Warsaw,Hybrid,23000 - 29000 PLN,Azure,"Azure, SQL",B2B
+Machine Learning Engineer,Samsung Warsaw,Warsaw,Hybrid,23000 - 28000 PLN,Kafka,"Kafka, Spark, Excel, SQL, Azure",B2B
+Data Engineer,Samsung Warsaw,Remote,Remote,19000 - 25000 PLN,Power BI,"Power BI, Docker",B2B
+BI Developer,Capgemini,Warsaw,Hybrid,11000 - 17000 PLN,Spark,"Spark, Tableau, Azure",Permanent
+Data Analyst,CD Projekt Red,Remote,Remote,13000 - 20000 PLN,Spark,"Spark, Tableau, Kafka",Permanent
+Data Scientist,Deloitte,Remote,Remote,25000 - 31000 PLN,Docker,"Docker, AWS, Power BI, SQL",B2B
+Data Analyst,mBank,Warsaw,Hybrid,Undisclosed,Docker,"Docker, AWS",Permanent
+Data Engineer,EY,Remote,Remote,18000 - 24000 PLN,Docker,"Docker, Spark",B2B
+BI Developer,CD Projekt Red,Warsaw,On-site,12000 - 18000 PLN,Azure,"Azure, Excel",Permanent
+Data Scientist,Samsung Warsaw,Warsaw,Hybrid,23000 - 27000 PLN,Power BI,"Power BI, SQL",B2B
+Data Analyst,mBank,Remote,Remote,10000 - 16000 PLN,Kafka,"Kafka, Docker, Tableau, Power BI, Excel",Permanent
+BI Developer,EY,Warsaw,Hybrid,12000 - 17000 PLN,AWS,"AWS, Python, SQL, Power BI, Spark",B2B
+Data Engineer,Sabre,Warsaw,On-site,19000 - 25000 PLN,AWS,"AWS, Kafka",B2B
+Data Analyst,Sabre,Remote,Remote,9000 - 12000 PLN,Docker,"Docker, Power BI, Excel, Python, Tableau",B2B
+Data Analyst,EY,Remote,Remote,9000 - 14000 PLN,Tableau,"Tableau, Kafka, Spark",Permanent
+BI Developer,mBank,Warsaw,Hybrid,8000 - 13000 PLN,Excel,"Excel, Python, SQL, Tableau",Permanent
+Data Scientist,Samsung Warsaw,Remote,Remote,22000 - 28000 PLN,Docker,"Docker, Tableau",Permanent
+Data Scientist,Sabre,Warsaw,On-site,21000 - 25000 PLN,Power BI,"Power BI, Tableau, Kafka, AWS",B2B
+Data Engineer,CD Projekt Red,Warsaw,Hybrid,25000 - 28000 PLN,Azure,"Azure, SQL",B2B
+Data Analyst,Allegro,Warsaw,Hybrid,Undisclosed,SQL,"SQL, AWS, Python, Kafka",Permanent
+Data Analyst,CD Projekt Red,Warsaw,Hybrid,11000 - 18000 PLN,Excel,"Excel, AWS",B2B
+Data Scientist,Capgemini,Warsaw,Hybrid,Undisclosed,AWS,"AWS, Kafka, Power BI, Excel, Python",B2B
+Data Scientist,PKO BP,Warsaw,On-site,20000 - 25000 PLN,Kafka,"Kafka, Excel",B2B
+Data Analyst,CD Projekt Red,Remote,Remote,9000 - 16000 PLN,AWS,"AWS, Spark, Docker, Power BI, Excel",B2B
+Data Scientist,CD Projekt Red,Remote,Remote,20000 - 27000 PLN,AWS,"AWS, Python",Permanent
+BI Developer,mBank,Remote,Remote,12000 - 18000 PLN,Python,"Python, AWS, Tableau",B2B
+Data Scientist,Allegro,Warsaw,Hybrid,20000 - 25000 PLN,Azure,"Azure, Excel, AWS",B2B
+Data Engineer,CD Projekt Red,Warsaw,Hybrid,22000 - 29000 PLN,Azure,"Azure, Spark, Power BI, Tableau, Python",Permanent
+Data Scientist,EY,Warsaw,Hybrid,24000 - 28000 PLN,AWS,"AWS, Excel, Azure, Python",Permanent
+BI Developer,EY,Warsaw,On-site,14000 - 21000 PLN,Spark,"Spark, AWS, Power BI, Kafka, Excel",B2B
+Data Analyst,Sabre,Warsaw,Hybrid,14000 - 17000 PLN,Tableau,"Tableau, Python, Excel, Spark",B2B
+Data Analyst,mBank,Warsaw,On-site,Undisclosed,Spark,"Spark, Kafka, AWS, Python",B2B
+Data Scientist,Samsung Warsaw,Warsaw,On-site,25000 - 32000 PLN,Kafka,"Kafka, Azure, SQL, Power BI",Permanent
+Data Engineer,Allegro,Remote,Remote,18000 - 23000 PLN,Python,"Python, Spark, Docker",B2B
+BI Developer,Sabre,Warsaw,Hybrid,10000 - 15000 PLN,Spark,"Spark, Kafka, Power BI, Excel, Python",B2B
+Data Analyst,Allegro,Remote,Remote,13000 - 18000 PLN,Spark,"Spark, Kafka",Permanent
+Data Analyst,mBank,Remote,Remote,10000 - 14000 PLN,Python,"Python, Tableau, Azure, Excel, AWS",B2B
+Data Analyst,PKO BP,Remote,Remote,14000 - 19000 PLN,Tableau,"Tableau, Spark, Kafka",B2B
+Data Scientist,Deloitte,Remote,Remote,22000 - 26000 PLN,Tableau,"Tableau, Docker",B2B
+BI Developer,Capgemini,Warsaw,On-site,10000 - 17000 PLN,Tableau,"Tableau, Excel, Docker",B2B
+Data Engineer,Deloitte,Warsaw,Hybrid,Undisclosed,Spark,"Spark, Power BI, Docker",Permanent
+Data Engineer,Samsung Warsaw,Remote,Remote,16000 - 19000 PLN,Docker,"Docker, Excel, Kafka, Spark",B2B
+BI Developer,Samsung Warsaw,Warsaw,Hybrid,12000 - 18000 PLN,Tableau,"Tableau, Spark, AWS",B2B
+BI Developer,Capgemini,Warsaw,On-site,11000 - 14000 PLN,SQL,"SQL, Kafka, Python",B2B
+Data Engineer,CD Projekt Red,Warsaw,Hybrid,17000 - 21000 PLN,Power BI,"Power BI, Tableau, Kafka",B2B
+BI Developer,EY,Warsaw,Hybrid,14000 - 17000 PLN,Python,"Python, Docker, AWS, Power BI",B2B
+Data Engineer,Deloitte,Warsaw,Hybrid,Undisclosed,Excel,"Excel, Tableau, Kafka, SQL, Spark",B2B
+Data Analyst,Deloitte,Remote,Remote,11000 - 17000 PLN,Docker,"Docker, Azure",B2B
+Machine Learning Engineer,Deloitte,Remote,Remote,Undisclosed,Kafka,"Kafka, Excel, AWS, Spark, Docker",B2B
+Data Analyst,Deloitte,Warsaw,Hybrid,10000 - 13000 PLN,Azure,"Azure, AWS, Tableau, Power BI, Docker",B2B
+BI Developer,Deloitte,Remote,Remote,9000 - 13000 PLN,Python,"Python, Tableau, SQL, Docker",B2B
+BI Developer,PKO BP,Remote,Remote,Undisclosed,Excel,"Excel, Docker, Power BI, SQL",Permanent
+Data Scientist,CD Projekt Red,Warsaw,Hybrid,22000 - 28000 PLN,Power BI,"Power BI, Azure",B2B
+Data Analyst,PKO BP,Warsaw,Hybrid,13000 - 17000 PLN,SQL,"SQL, AWS",Permanent
+Data Analyst,Samsung Warsaw,Warsaw,Hybrid,14000 - 20000 PLN,Power BI,"Power BI, AWS",Permanent
+Data Analyst,Capgemini,Warsaw,Hybrid,12000 - 17000 PLN,Azure,"Azure, Kafka, AWS, Docker, SQL",Permanent
+Data Engineer,Capgemini,Warsaw,Hybrid,24000 - 28000 PLN,Azure,"Azure, Power BI, Spark, SQL, Tableau",Permanent
+Data Scientist,mBank,Remote,Remote,24000 - 31000 PLN,Azure,"Azure, Tableau",B2B
+Data Analyst,Allegro,Remote,Remote,12000 - 17000 PLN,Python,"Python, Spark, Excel, Power BI",Permanent
+BI Developer,CD Projekt Red,Warsaw,Hybrid,13000 - 16000 PLN,Power BI,"Power BI, SQL, Azure",Permanent
+Data Analyst,PKO BP,Remote,Remote,Undisclosed,Excel,"Excel, SQL, AWS, Spark, Kafka",B2B
+BI Developer,Capgemini,Warsaw,Hybrid,Undisclosed,Power BI,"Power BI, SQL, Excel, Azure",B2B
+BI Developer,Capgemini,Warsaw,Hybrid,14000 - 17000 PLN,Docker,"Docker, Python, AWS",B2B
+Data Engineer,mBank,Warsaw,Hybrid,25000 - 30000 PLN,Spark,"Spark, SQL",Permanent
+BI Developer,CD Projekt Red,Warsaw,Hybrid,9000 - 14000 PLN,SQL,"SQL, Power BI, Excel",B2B
+Data Analyst,EY,Remote,Remote,10000 - 14000 PLN,Python,"Python, Power BI, AWS",B2B
+Data Engineer,CD Projekt Red,Warsaw,Hybrid,24000 - 29000 PLN,Python,"Python, Kafka",Permanent
+Data Engineer,EY,Warsaw,Hybrid,18000 - 25000 PLN,AWS,"AWS, Power BI, Azure, Docker, Python",Permanent
+Data Engineer,Sabre,Warsaw,Hybrid,18000 - 22000 PLN,Tableau,"Tableau, Spark, Python, Kafka",B2B
+Data Engineer,Deloitte,Remote,Remote,15000 - 19000 PLN,Docker,"Docker, Power BI, Tableau",Permanent
+BI Developer,Samsung Warsaw,Warsaw,Hybrid,12000 - 16000 PLN,Tableau,"Tableau, Azure, Spark, Docker",Permanent
+Data Engineer,Sabre,Warsaw,Hybrid,15000 - 20000 PLN,Python,"Python, Excel, Kafka",B2B
+Data Analyst,Capgemini,Warsaw,Hybrid,Undisclosed,Power BI,"Power BI, Tableau, Python, Docker, AWS",Permanent
+Data Analyst,Samsung Warsaw,Remote,Remote,Undisclosed,Tableau,"Tableau, Excel, Python, Docker",B2B
+Data Scientist,EY,Warsaw,Hybrid,25000 - 30000 PLN,Python,"Python, Power BI",B2B
+BI Developer,Sabre,Warsaw,Hybrid,13000 - 16000 PLN,SQL,"SQL, Tableau, Spark",B2B
+Data Engineer,Deloitte,Remote,Remote,19000 - 24000 PLN,Spark,"Spark, AWS, Power BI, Docker",B2B
+Data Engineer,Capgemini,Warsaw,Hybrid,24000 - 27000 PLN,Tableau,"Tableau, AWS, Excel, Python",B2B
+Data Analyst,Capgemini,Warsaw,Hybrid,Undisclosed,Spark,"Spark, AWS, Kafka, Azure, Tableau",Permanent
+Data Scientist,Allegro,Warsaw,Hybrid,24000 - 28000 PLN,Excel,"Excel, Kafka, Power BI, AWS",Permanent
+Data Engineer,Sabre,Remote,Remote,25000 - 32000 PLN,Tableau,"Tableau, Python",B2B
+BI Developer,Samsung Warsaw,Warsaw,Hybrid,12000 - 15000 PLN,Tableau,"Tableau, Power BI",B2B
+Data Analyst,CD Projekt Red,Remote,Remote,12000 - 16000 PLN,Docker,"Docker, AWS, Tableau",B2B
+Machine Learning Engineer,mBank,Warsaw,Hybrid,19000 - 25000 PLN,Power BI,"Power BI, Kafka, Excel, Tableau, AWS",Permanent
+Data Analyst,Deloitte,Warsaw,On-site,14000 - 21000 PLN,SQL,"SQL, Excel, Azure",Permanent
+BI Developer,Deloitte,Remote,Remote,14000 - 20000 PLN,Kafka,"Kafka, Excel, Tableau, AWS, SQL",B2B
+BI Developer,EY,Remote,Remote,12000 - 18000 PLN,Docker,"Docker, Azure, Power BI, Kafka, Python",Permanent
+Data Scientist,EY,Warsaw,Hybrid,26000 - 32000 PLN,Docker,"Docker, SQL, AWS, Tableau",B2B
+BI Developer,Samsung Warsaw,Warsaw,Hybrid,Undisclosed,Azure,"Azure, Excel, Power BI, SQL, Tableau",B2B
+Data Scientist,Capgemini,Remote,Remote,17000 - 24000 PLN,Azure,"Azure, Docker, AWS, Excel, Spark",Permanent
+Data Analyst,Deloitte,Remote,Remote,12000 - 19000 PLN,Azure,"Azure, AWS, Excel, Kafka, Docker",Permanent
+BI Developer,mBank,Warsaw,On-site,8000 - 11000 PLN,AWS,"AWS, Power BI, Python",B2B
+BI Developer,Allegro,Warsaw,Hybrid,11000 - 14000 PLN,Docker,"Docker, AWS, Spark, SQL, Python",B2B
+Data Analyst,Samsung Warsaw,Warsaw,Hybrid,12000 - 18000 PLN,Azure,"Azure, Spark, Kafka",Permanent
+BI Developer,mBank,Remote,Remote,8000 - 14000 PLN,Kafka,"Kafka, SQL, Power BI, Python",B2B
+Data Analyst,CD Projekt Red,Warsaw,Hybrid,10000 - 14000 PLN,Spark,"Spark, Power BI, Excel, SQL, Docker",B2B
+Data Analyst,Sabre,Remote,Remote,10000 - 16000 PLN,SQL,"SQL, Power BI",B2B
+Data Analyst,mBank,Remote,Remote,8000 - 14000 PLN,SQL,"SQL, AWS, Azure, Power BI",Permanent
+Machine Learning Engineer,Sabre,Warsaw,Hybrid,Undisclosed,Spark,"Spark, Power BI, Docker, Azure",Permanent
+Data Engineer,Capgemini,Remote,Remote,16000 - 20000 PLN,Azure,"Azure, SQL, Power BI, Spark",B2B
+Data Analyst,Allegro,Warsaw,Hybrid,13000 - 19000 PLN,Excel,"Excel, SQL, Spark",B2B
+Data Scientist,mBank,Remote,Remote,20000 - 24000 PLN,Python,"Python, AWS, Tableau",B2B
+BI Developer,Allegro,Warsaw,Hybrid,11000 - 15000 PLN,AWS,"AWS, Power BI",Permanent
+Data Analyst,EY,Warsaw,Hybrid,14000 - 20000 PLN,Docker,"Docker, Spark, Azure",B2B
+Data Scientist,CD Projekt Red,Warsaw,Hybrid,21000 - 27000 PLN,Spark,"Spark, Docker, Excel, SQL",Permanent
+BI Developer,EY,Remote,Remote,11000 - 17000 PLN,Power BI,"Power BI, Tableau, AWS, SQL",B2B
+BI Developer,Sabre,Remote,Remote,14000 - 17000 PLN,Python,"Python, Kafka, Spark, Azure",B2B
+BI Developer,Allegro,Warsaw,Hybrid,13000 - 19000 PLN,Tableau,"Tableau, Docker, SQL",B2B
+Data Engineer,Deloitte,Remote,Remote,21000 - 26000 PLN,AWS,"AWS, Python, Power BI",B2B
+Data Scientist,EY,Warsaw,Hybrid,Undisclosed,Python,"Python, AWS",B2B
+Data Scientist,CD Projekt Red,Remote,Remote,18000 - 23000 PLN,Tableau,"Tableau, Excel, AWS, Azure, Kafka",B2B
+Data Engineer,Capgemini,Remote,Remote,18000 - 24000 PLN,Tableau,"Tableau, Azure, Docker, Excel, Power BI",Permanent
+Data Scientist,Deloitte,Remote,Remote,22000 - 27000 PLN,Power BI,"Power BI, Kafka",Permanent
+Data Engineer,Samsung Warsaw,Remote,Remote,19000 - 24000 PLN,Power BI,"Power BI, Spark, AWS, Azure, Tableau",B2B
+Data Analyst,Sabre,Warsaw,On-site,8000 - 15000 PLN,Kafka,"Kafka, AWS, Azure",B2B
+Data Scientist,PKO BP,Warsaw,Hybrid,22000 - 25000 PLN,Azure,"Azure, Python, SQL",Permanent
+Data Analyst,Sabre,Warsaw,Hybrid,10000 - 16000 PLN,SQL,"SQL, Python, Excel, Spark",Permanent
+Machine Learning Engineer,mBank,Remote,Remote,16000 - 19000 PLN,Python,"Python, Power BI",Permanent
+BI Developer,EY,Warsaw,Hybrid,12000 - 16000 PLN,Azure,"Azure, SQL",Permanent
+Data Scientist,CD Projekt Red,Warsaw,Hybrid,16000 - 21000 PLN,SQL,"SQL, Kafka, Excel",B2B
+Data Analyst,mBank,Remote,Remote,8000 - 13000 PLN,Tableau,"Tableau, Power BI, SQL, AWS",Permanent
+Data Scientist,PKO BP,Warsaw,Hybrid,18000 - 24000 PLN,Docker,"Docker, SQL, Python, Kafka",B2B
+Machine Learning Engineer,mBank,Remote,Remote,26000 - 31000 PLN,Spark,"Spark, Power BI, SQL, Excel, Tableau",Permanent
+Data Analyst,Samsung Warsaw,Warsaw,On-site,8000 - 11000 PLN,Azure,"Azure, Python",B2B
+Data Scientist,Samsung Warsaw,Remote,Remote,20000 - 24000 PLN,AWS,"AWS, Tableau, Power BI, Kafka",Permanent
+Machine Learning Engineer,PKO BP,Remote,Remote,Undisclosed,AWS,"AWS, Azure, SQL, Excel",Permanent
+BI Developer,Sabre,Warsaw,Hybrid,8000 - 13000 PLN,Docker,"Docker, Excel",Permanent
+BI Developer,CD Projekt Red,Warsaw,Hybrid,Undisclosed,SQL,"SQL, Python, AWS, Spark",B2B
+Data Engineer,CD Projekt Red,Warsaw,Hybrid,17000 - 23000 PLN,Docker,"Docker, Spark, Power BI, Kafka",B2B
+Data Analyst,Samsung Warsaw,Warsaw,Hybrid,10000 - 13000 PLN,Excel,"Excel, SQL, Spark, Python, Kafka",Permanent
+Data Analyst,PKO BP,Remote,Remote,8000 - 13000 PLN,Power BI,"Power BI, AWS, SQL, Azure, Python",B2B
+Data Engineer,Deloitte,Warsaw,On-site,17000 - 22000 PLN,Azure,"Azure, AWS, Excel, Power BI, Docker",Permanent
+Data Scientist,Sabre,Remote,Remote,18000 - 24000 PLN,Tableau,"Tableau, Spark, Kafka, SQL",B2B
+Data Analyst,CD Projekt Red,Remote,Remote,Undisclosed,SQL,"SQL, Power BI",Permanent
+BI Developer,Deloitte,Warsaw,Hybrid,Undisclosed,AWS,"AWS, Excel, Spark",B2B
+Data Analyst,EY,Warsaw,On-site,Undisclosed,Power BI,"Power BI, Python",Permanent
+Data Engineer,CD Projekt Red,Warsaw,Hybrid,22000 - 29000 PLN,Azure,"Azure, Docker",B2B
+Data Engineer,EY,Warsaw,Hybrid,19000 - 25000 PLN,Kafka,"Kafka, Excel, Python, Tableau",Permanent
+Data Scientist,Allegro,Remote,Remote,Undisclosed,Spark,"Spark, Kafka, Excel, Azure, Power BI",B2B
+Data Scientist,Sabre,Warsaw,On-site,26000 - 32000 PLN,SQL,"SQL, Spark, Kafka, Tableau, Excel",Permanent
+Data Analyst,EY,Warsaw,On-site,8000 - 11000 PLN,Python,"Python, Azure, Excel, AWS, Tableau",Permanent
+Data Analyst,PKO BP,Warsaw,Hybrid,13000 - 17000 PLN,Kafka,"Kafka, Power BI, Excel",B2B
+Data Analyst,Allegro,Warsaw,Hybrid,14000 - 21000 PLN,Kafka,"Kafka, SQL, Docker, Spark, AWS",B2B
+Data Scientist,CD Projekt Red,Remote,Remote,24000 - 30000 PLN,Power BI,"Power BI, Spark, AWS",Permanent
+Data Analyst,Capgemini,Remote,Remote,13000 - 19000 PLN,Docker,"Docker, Spark, SQL",B2B
+Data Analyst,CD Projekt Red,Warsaw,Hybrid,9000 - 15000 PLN,Excel,"Excel, Power BI, SQL",B2B
+Data Scientist,mBank,Warsaw,Hybrid,26000 - 30000 PLN,Docker,"Docker, Power BI, Excel, SQL",B2B
+Data Scientist,Sabre,Remote,Remote,16000 - 20000 PLN,Spark,"Spark, Excel",Permanent
+Data Analyst,Deloitte,Warsaw,Hybrid,Undisclosed,Docker,"Docker, Kafka, Spark, AWS, Azure",B2B
+Data Scientist,mBank,Remote,Remote,21000 - 27000 PLN,AWS,"AWS, Power BI, SQL, Kafka",Permanent
+Data Analyst,Sabre,Remote,Remote,11000 - 16000 PLN,Python,"Python, AWS",B2B
+Data Engineer,PKO BP,Warsaw,Hybrid,22000 - 26000 PLN,AWS,"AWS, Tableau",Permanent
+Data Engineer,mBank,Remote,Remote,23000 - 27000 PLN,Azure,"Azure, SQL, Power BI, AWS, Python",B2B
+Data Engineer,Samsung Warsaw,Remote,Remote,21000 - 25000 PLN,Power BI,"Power BI, Spark, Kafka, Tableau, Docker",Permanent
+BI Developer,Sabre,Warsaw,Hybrid,14000 - 20000 PLN,SQL,"SQL, Azure, Python, Docker, Kafka",B2B
+Data Scientist,mBank,Warsaw,Hybrid,18000 - 23000 PLN,Docker,"Docker, Power BI, AWS",Permanent
+Data Analyst,mBank,Remote,Remote,14000 - 17000 PLN,SQL,"SQL, Azure, Kafka, Python",Permanent
+Data Engineer,mBank,Remote,Remote,Undisclosed,Excel,"Excel, Kafka, Azure, Spark, Python",Permanent
+Data Scientist,Samsung Warsaw,Warsaw,Hybrid,Undisclosed,Python,"Python, Power BI, Tableau, Spark",B2B
+Data Engineer,Allegro,Warsaw,Hybrid,17000 - 24000 PLN,Excel,"Excel, Azure",Permanent
+Data Analyst,Samsung Warsaw,Warsaw,Hybrid,12000 - 19000 PLN,Tableau,"Tableau, Azure, AWS",Permanent
+Data Scientist,CD Projekt Red,Remote,Remote,24000 - 27000 PLN,AWS,"AWS, Kafka, Power BI, Tableau",Permanent
+Data Engineer,EY,Warsaw,Hybrid,23000 - 29000 PLN,Kafka,"Kafka, Python, Spark, Azure",B2B
+Data Analyst,CD Projekt Red,Remote,Remote,13000 - 17000 PLN,SQL,"SQL, Excel, AWS",B2B
+Machine Learning Engineer,Deloitte,Warsaw,On-site,19000 - 22000 PLN,Kafka,"Kafka, Spark",B2B
+BI Developer,CD Projekt Red,Remote,Remote,Undisclosed,Excel,"Excel, Tableau, Spark, Python, Docker",Permanent
+Data Engineer,Sabre,Warsaw,Hybrid,20000 - 25000 PLN,Tableau,"Tableau, Spark",B2B
+Data Engineer,EY,Warsaw,Hybrid,16000 - 23000 PLN,Excel,"Excel, Python, Tableau, SQL",Permanent
+Data Engineer,mBank,Warsaw,Hybrid,25000 - 28000 PLN,Kafka,"Kafka, Power BI, AWS, Azure, SQL",B2B
+Machine Learning Engineer,PKO BP,Warsaw,Hybrid,16000 - 21000 PLN,Tableau,"Tableau, AWS",B2B
+Machine Learning Engineer,EY,Remote,Remote,19000 - 23000 PLN,Docker,"Docker, Azure, Python, SQL",Permanent
+Data Analyst,PKO BP,Remote,Remote,9000 - 15000 PLN,Spark,"Spark, Kafka, Power BI, Excel, Azure",B2B
+Data Engineer,Capgemini,Warsaw,Hybrid,19000 - 24000 PLN,Kafka,"Kafka, Excel, Python",Permanent
+BI Developer,Deloitte,Warsaw,Hybrid,14000 - 18000 PLN,Power BI,"Power BI, Spark, Python",B2B
+Machine Learning Engineer,mBank,Warsaw,Hybrid,19000 - 26000 PLN,Power BI,"Power BI, Azure, Tableau, AWS",B2B
+Data Engineer,Samsung Warsaw,Remote,Remote,21000 - 26000 PLN,Tableau,"Tableau, Python",Permanent
+BI Developer,EY,Warsaw,Hybrid,13000 - 19000 PLN,Tableau,"Tableau, AWS, Docker, Spark",B2B
+Data Analyst,Deloitte,Warsaw,Hybrid,Undisclosed,Python,"Python, Azure, Power BI",Permanent
+Data Analyst,Allegro,Remote,Remote,11000 - 15000 PLN,Docker,"Docker, Spark, Power BI",B2B
+Data Engineer,Sabre,Warsaw,Hybrid,21000 - 25000 PLN,Power BI,"Power BI, Excel, Tableau, Spark",B2B
+Data Analyst,CD Projekt Red,Warsaw,Hybrid,12000 - 17000 PLN,Spark,"Spark, Tableau",Permanent
+Data Engineer,Deloitte,Warsaw,Hybrid,15000 - 20000 PLN,SQL,"SQL, Docker, Kafka, Power BI, Tableau",Permanent
+Data Analyst,Deloitte,Remote,Remote,8000 - 12000 PLN,Kafka,"Kafka, Excel",B2B
+Data Engineer,Allegro,Warsaw,On-site,20000 - 26000 PLN,AWS,"AWS, Azure, Power BI, Docker",B2B
+Data Analyst,Capgemini,Warsaw,Hybrid,Undisclosed,Python,"Python, Kafka, AWS",B2B
+Data Analyst,PKO BP,Warsaw,Hybrid,10000 - 15000 PLN,AWS,"AWS, Excel, Spark, Docker",Permanent
+Data Scientist,EY,Remote,Remote,Undisclosed,Python,"Python, Docker, Kafka",Permanent
+BI Developer,mBank,Remote,Remote,12000 - 16000 PLN,Spark,"Spark, SQL, AWS",Permanent
+Data Scientist,Capgemini,Remote,Remote,15000 - 18000 PLN,Excel,"Excel, Power BI, SQL, AWS",Permanent
+Data Engineer,Samsung Warsaw,Warsaw,Hybrid,15000 - 19000 PLN,Excel,"Excel, Power BI, Kafka, Spark, Azure",B2B
+Data Analyst,CD Projekt Red,Remote,Remote,10000 - 14000 PLN,Power BI,"Power BI, Tableau, Excel, AWS, Python",Permanent
+Data Engineer,Sabre,Remote,Remote,20000 - 24000 PLN,AWS,"AWS, Kafka, Spark, Power BI",B2B
+Data Engineer,PKO BP,Warsaw,Hybrid,26000 - 30000 PLN,Python,"Python, Excel",B2B
+BI Developer,Deloitte,Remote,Remote,10000 - 17000 PLN,Tableau,"Tableau, Azure",Permanent
+Data Analyst,Allegro,Warsaw,On-site,9000 - 16000 PLN,SQL,"SQL, Spark, Kafka, AWS, Azure",B2B
+Data Scientist,Allegro,Warsaw,Hybrid,18000 - 23000 PLN,Excel,"Excel, Docker",B2B
+Data Scientist,CD Projekt Red,Remote,Remote,Undisclosed,Python,"Python, Tableau, Azure",Permanent
+Data Analyst,CD Projekt Red,Remote,Remote,Undisclosed,Kafka,"Kafka, Tableau, AWS",B2B
+Data Analyst,Capgemini,Remote,Remote,13000 - 20000 PLN,Tableau,"Tableau, SQL, Python",Permanent
+Data Analyst,mBank,Remote,Remote,10000 - 15000 PLN,SQL,"SQL, Power BI, Tableau, Docker, AWS",Permanent
+Data Analyst,PKO BP,Warsaw,Hybrid,8000 - 14000 PLN,Python,"Python, SQL",Permanent
+BI Developer,PKO BP,Warsaw,Hybrid,Undisclosed,SQL,"SQL, Spark, AWS",Permanent
+Data Analyst,PKO BP,Remote,Remote,14000 - 17000 PLN,Power BI,"Power BI, Excel, Azure, Tableau, Kafka",B2B
+Data Engineer,Sabre,Warsaw,Hybrid,Undisclosed,Excel,"Excel, Kafka, Spark, AWS",B2B
+Data Scientist,CD Projekt Red,Remote,Remote,17000 - 21000 PLN,Python,"Python, Azure, Docker, Excel, Kafka",B2B
+BI Developer,PKO BP,Warsaw,Hybrid,9000 - 13000 PLN,AWS,"AWS, Docker, Power BI, SQL, Tableau",B2B
+Data Analyst,Samsung Warsaw,Remote,Remote,14000 - 17000 PLN,Excel,"Excel, Tableau",B2B
+Data Analyst,Sabre,Warsaw,Hybrid,12000 - 18000 PLN,Python,"Python, Spark, Tableau, SQL",Permanent
+Data Engineer,EY,Remote,Remote,23000 - 27000 PLN,Azure,"Azure, SQL",Permanent
+Data Analyst,PKO BP,Warsaw,Hybrid,8000 - 12000 PLN,Tableau,"Tableau, Azure",Permanent
+Data Scientist,EY,Warsaw,Hybrid,24000 - 27000 PLN,Excel,"Excel, SQL",B2B
+Data Scientist,Capgemini,Remote,Remote,20000 - 24000 PLN,AWS,"AWS, Azure",Permanent
+Data Engineer,PKO BP,Remote,Remote,Undisclosed,Excel,"Excel, SQL, Spark, Docker",Permanent
+Data Analyst,Capgemini,Warsaw,On-site,Undisclosed,Excel,"Excel, Kafka, Python, Tableau, Spark",Permanent
+Data Analyst,PKO BP,Remote,Remote,12000 - 18000 PLN,Python,"Python, Kafka, Docker, Azure, Spark",B2B
+Data Scientist,Sabre,Warsaw,Hybrid,Undisclosed,Excel,"Excel, Python, Kafka",Permanent
+Data Analyst,PKO BP,Warsaw,Hybrid,8000 - 14000 PLN,Excel,"Excel, Docker",B2B
+Data Engineer,mBank,Warsaw,On-site,17000 - 22000 PLN,Tableau,"Tableau, Power BI, Excel, Python",Permanent
+Data Analyst,Allegro,Remote,Remote,11000 - 17000 PLN,Tableau,"Tableau, Excel, Docker, Spark, SQL",B2B
+Data Analyst,Samsung Warsaw,Warsaw,Hybrid,11000 - 16000 PLN,AWS,"AWS, Python, Tableau",Permanent
+Data Engineer,Deloitte,Remote,Remote,20000 - 25000 PLN,AWS,"AWS, Docker, SQL, Tableau, Spark",B2B
+Data Engineer,mBank,Warsaw,Hybrid,23000 - 28000 PLN,SQL,"SQL, Python, AWS",Permanent
+Data Engineer,Allegro,Warsaw,Hybrid,19000 - 24000 PLN,SQL,"SQL, AWS, Docker",B2B
+Data Engineer,Sabre,Warsaw,Hybrid,17000 - 23000 PLN,Spark,"Spark, Kafka, Docker",B2B
+Data Engineer,CD Projekt Red,Warsaw,Hybrid,18000 - 23000 PLN,AWS,"AWS, SQL, Spark",Permanent
+Data Analyst,Allegro,Remote,Remote,9000 - 14000 PLN,AWS,"AWS, Excel, Python",Permanent
+Data Analyst,Capgemini,Remote,Remote,11000 - 15000 PLN,AWS,"AWS, Tableau, Spark, SQL",B2B
+Data Analyst,Capgemini,Warsaw,Hybrid,12000 - 19000 PLN,SQL,"SQL, Azure, Kafka, AWS",B2B
+Data Analyst,Sabre,Warsaw,On-site,12000 - 16000 PLN,Spark,"Spark, Python, Tableau, AWS, Excel",B2B
+Data Scientist,CD Projekt Red,Warsaw,On-site,15000 - 21000 PLN,Tableau,"Tableau, Spark, Azure",Permanent
+Data Analyst,Deloitte,Remote,Remote,Undisclosed,AWS,"AWS, Power BI, Docker",B2B
+Data Analyst,CD Projekt Red,Remote,Remote,12000 - 16000 PLN,AWS,"AWS, Excel, Kafka, Power BI, SQL",B2B
+Data Analyst,EY,Warsaw,On-site,11000 - 14000 PLN,AWS,"AWS, Python, Power BI, Docker",B2B
+Data Engineer,PKO BP,Warsaw,Hybrid,23000 - 30000 PLN,Docker,"Docker, Azure, SQL",Permanent
+Data Scientist,Capgemini,Warsaw,On-site,18000 - 22000 PLN,Azure,"Azure, Python",B2B
+Data Analyst,PKO BP,Remote,Remote,13000 - 17000 PLN,Azure,"Azure, Docker, SQL",Permanent
+Data Scientist,Capgemini,Warsaw,Hybrid,Undisclosed,Python,"Python, Excel, SQL",Permanent
+Data Engineer,Deloitte,Warsaw,Hybrid,20000 - 23000 PLN,Azure,"Azure, Spark, AWS",B2B
+BI Developer,Sabre,Warsaw,Hybrid,12000 - 15000 PLN,Kafka,"Kafka, Tableau, Docker",B2B
+Machine Learning Engineer,CD Projekt Red,Warsaw,Hybrid,18000 - 21000 PLN,Azure,"Azure, Tableau, Excel",Permanent
+Data Analyst,Sabre,Remote,Remote,Undisclosed,Tableau,"Tableau, Docker",B2B
+Data Analyst,CD Projekt Red,Remote,Remote,10000 - 13000 PLN,Power BI,"Power BI, SQL",Permanent
+Data Analyst,Deloitte,Remote,Remote,10000 - 15000 PLN,Tableau,"Tableau, Excel, Docker",Permanent
+Data Engineer,EY,Warsaw,On-site,Undisclosed,Excel,"Excel, Python, AWS",Permanent
+Data Scientist,CD Projekt Red,Warsaw,Hybrid,Undisclosed,Tableau,"Tableau, Spark",Permanent
+Data Engineer,mBank,Remote,Remote,15000 - 21000 PLN,Spark,"Spark, Excel, Kafka, SQL, AWS",B2B
+Data Engineer,Sabre,Warsaw,Hybrid,Undisclosed,Excel,"Excel, Tableau",Permanent
+BI Developer,EY,Remote,Remote,11000 - 18000 PLN,Python,"Python, Power BI",Permanent
+Data Analyst,Sabre,Warsaw,Hybrid,10000 - 13000 PLN,Azure,"Azure, Tableau, SQL, Python, Excel",Permanent
+Data Engineer,EY,Remote,Remote,Undisclosed,AWS,"AWS, Docker, Python, Tableau",Permanent
+Data Scientist,Deloitte,Remote,Remote,19000 - 23000 PLN,Spark,"Spark, Tableau, AWS, Kafka, SQL",B2B
+Data Scientist,EY,Remote,Remote,20000 - 27000 PLN,Kafka,"Kafka, Tableau, Power BI, Python, Docker",B2B
+Data Analyst,Deloitte,Remote,Remote,9000 - 13000 PLN,Excel,"Excel, Azure, Docker, Python",B2B
+Data Analyst,Allegro,Warsaw,On-site,13000 - 20000 PLN,Excel,"Excel, Python, SQL, Docker, Power BI",B2B
+Machine Learning Engineer,Sabre,Remote,Remote,Undisclosed,AWS,"AWS, Kafka, Power BI, Spark",Permanent
+Data Scientist,Samsung Warsaw,Warsaw,On-site,21000 - 25000 PLN,AWS,"AWS, Tableau",Permanent
+Data Engineer,Sabre,Remote,Remote,26000 - 32000 PLN,Docker,"Docker, Power BI",B2B
+BI Developer,Sabre,Remote,Remote,11000 - 18000 PLN,Python,"Python, Spark",B2B
+Data Analyst,PKO BP,Remote,Remote,13000 - 17000 PLN,Azure,"Azure, Kafka, Tableau",Permanent
+Data Analyst,Capgemini,Warsaw,Hybrid,9000 - 12000 PLN,Excel,"Excel, SQL",Permanent
+BI Developer,PKO BP,Warsaw,Hybrid,14000 - 17000 PLN,Python,"Python, Azure",Permanent
+Data Analyst,Deloitte,Warsaw,Hybrid,10000 - 14000 PLN,Python,"Python, Azure, Docker",B2B
+Data Analyst,PKO BP,Remote,Remote,Undisclosed,SQL,"SQL, Spark",B2B
+BI Developer,Allegro,Warsaw,Hybrid,11000 - 15000 PLN,Azure,"Azure, Excel, SQL, Tableau",Permanent
+Data Scientist,mBank,Remote,Remote,19000 - 25000 PLN,Tableau,"Tableau, Spark",Permanent
+BI Developer,Capgemini,Warsaw,Hybrid,11000 - 17000 PLN,Kafka,"Kafka, Spark, Tableau",Permanent
+Data Scientist,mBank,Remote,Remote,22000 - 27000 PLN,Azure,"Azure, Tableau, Power BI, AWS, SQL",Permanent
+Data Scientist,Allegro,Warsaw,Hybrid,17000 - 22000 PLN,Docker,"Docker, Power BI, Azure",B2B
+BI Developer,Deloitte,Remote,Remote,13000 - 18000 PLN,Excel,"Excel, Tableau, Kafka",Permanent
+Data Analyst,Capgemini,Remote,Remote,Undisclosed,Spark,"Spark, Python, Kafka, Docker",Permanent
+BI Developer,Sabre,Remote,Remote,Undisclosed,Kafka,"Kafka, AWS, Docker, SQL",Permanent
+BI Developer,Deloitte,Warsaw,Hybrid,14000 - 19000 PLN,SQL,"SQL, Tableau, Excel, Azure, Power BI",B2B
+Data Scientist,EY,Remote,Remote,26000 - 29000 PLN,Kafka,"Kafka, SQL, Spark",B2B
+Data Scientist,CD Projekt Red,Warsaw,Hybrid,21000 - 25000 PLN,SQL,"SQL, Python",B2B
+Data Analyst,Samsung Warsaw,Remote,Remote,10000 - 14000 PLN,Docker,"Docker, Kafka, Power BI, SQL",B2B
+Data Analyst,Capgemini,Warsaw,Hybrid,8000 - 12000 PLN,SQL,"SQL, Spark, Docker, Power BI",Permanent
+Data Analyst,Samsung Warsaw,Warsaw,Hybrid,8000 - 12000 PLN,Excel,"Excel, Power BI, SQL, Docker, Python",B2B
+Machine Learning Engineer,Capgemini,Warsaw,On-site,Undisclosed,AWS,"AWS, Power BI, Python, Spark, Azure",B2B
+Data Scientist,CD Projekt Red,Warsaw,Hybrid,23000 - 28000 PLN,Kafka,"Kafka, Excel, AWS, SQL, Python",B2B
+Data Analyst,Samsung Warsaw,Warsaw,On-site,11000 - 16000 PLN,Spark,"Spark, Power BI, Docker, Python, Tableau",Permanent
+Data Analyst,Capgemini,Warsaw,Hybrid,12000 - 16000 PLN,Tableau,"Tableau, Kafka, Power BI, Python, AWS",Permanent
+Machine Learning Engineer,Allegro,Warsaw,Hybrid,18000 - 22000 PLN,AWS,"AWS, Docker, Excel, Spark, Azure",B2B
+Data Scientist,Deloitte,Warsaw,Hybrid,22000 - 26000 PLN,Power BI,"Power BI, Spark, Tableau, AWS, SQL",B2B
+Machine Learning Engineer,Deloitte,Warsaw,Hybrid,22000 - 28000 PLN,Excel,"Excel, Azure",B2B
+Data Analyst,CD Projekt Red,Warsaw,Hybrid,10000 - 15000 PLN,Excel,"Excel, Power BI, Python",Permanent
+Data Analyst,PKO BP,Remote,Remote,8000 - 13000 PLN,Python,"Python, Spark, Azure, AWS",Permanent
+Data Engineer,Capgemini,Warsaw,Hybrid,19000 - 25000 PLN,Docker,"Docker, Tableau, Kafka",Permanent
+Data Engineer,EY,Remote,Remote,20000 - 26000 PLN,Power BI,"Power BI, Excel, Python, Azure",B2B
+Data Engineer,mBank,Warsaw,Hybrid,20000 - 24000 PLN,Spark,"Spark, Tableau, Docker, Python",Permanent
+Data Engineer,Deloitte,Remote,Remote,20000 - 23000 PLN,Python,"Python, Power BI",Permanent
+Data Scientist,Allegro,Remote,Remote,17000 - 21000 PLN,AWS,"AWS, Python, Excel, Power BI",Permanent
+Data Scientist,PKO BP,Warsaw,Hybrid,18000 - 21000 PLN,Docker,"Docker, Excel, Azure",B2B
+Data Engineer,mBank,Warsaw,Hybrid,24000 - 31000 PLN,Spark,"Spark, Excel, Docker, AWS",B2B
+Data Analyst,Allegro,Remote,Remote,9000 - 12000 PLN,AWS,"AWS, Azure, Docker, SQL",Permanent
+Data Scientist,Deloitte,Remote,Remote,19000 - 26000 PLN,Azure,"Azure, SQL, Tableau",B2B
+BI Developer,Allegro,Warsaw,Hybrid,11000 - 16000 PLN,Tableau,"Tableau, Excel",Permanent
+Data Analyst,Samsung Warsaw,Warsaw,Hybrid,13000 - 16000 PLN,Tableau,"Tableau, Docker",Permanent
+Data Engineer,CD Projekt Red,Warsaw,Hybrid,16000 - 21000 PLN,Spark,"Spark, Tableau",Permanent
+Data Scientist,CD Projekt Red,Remote,Remote,25000 - 30000 PLN,Kafka,"Kafka, Power BI, SQL",B2B
+Machine Learning Engineer,Deloitte,Warsaw,Hybrid,20000 - 24000 PLN,Tableau,"Tableau, Python, SQL",Permanent
+BI Developer,PKO BP,Remote,Remote,Undisclosed,Power BI,"Power BI, Kafka",Permanent
+Data Analyst,Capgemini,Warsaw,Hybrid,9000 - 13000 PLN,Azure,"Azure, Spark, Python",B2B
+Data Scientist,EY,Remote,Remote,16000 - 21000 PLN,SQL,"SQL, Power BI",B2B
+Data Engineer,CD Projekt Red,Remote,Remote,23000 - 27000 PLN,Kafka,"Kafka, SQL",B2B
